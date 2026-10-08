@@ -139,6 +139,8 @@ for (const [name, net] of active) {
     try { await net.send(p); console.log(`✔ ${name}: ${p.url}`); } catch (err) {
       // Sin saldo en la cuenta de desarrollador de X: se avisa, pero no se da por fallida la publicación del resto.
       if (name === 'x' && /HTTP 402/.test(err.message)) console.log('::warning::X: la cuenta de desarrollador no tiene saldo; no se ha publicado en X.');
+      // Bot de Telegram todavía sin permisos en el canal: mismo trato.
+      else if (name === 'telegram' && /not a member|administrator rights|not enough rights|chat not found/i.test(err.message)) console.log('::warning::Telegram: el bot aún no es administrador del canal; no se ha publicado en Telegram.');
       else { failed++; console.error(`✖ ${name}: ${err.message}`); }
       break;
     }
