@@ -11,7 +11,7 @@ on:
         description: Edición (AAAA-MM-DD) que anunciar en redes; vacío para no anunciar
         required: false
       solo_red:
-        description: Limitar el anuncio a una red (bluesky, mastodon, telegram, discord o x)
+        description: Limitar el anuncio a una red (bluesky, mastodon, telegram, discord, threads o x)
         required: false
       comprobar_redes:
         description: Solo validar las credenciales de redes, sin publicar nada
@@ -94,6 +94,7 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT: ${{ secrets.TELEGRAM_CHAT }}
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+          THREADS_TOKEN: ${{ secrets.THREADS_TOKEN }}
           X_API_KEY: ${{ secrets.X_API_KEY }}
           X_API_SECRET: ${{ secrets.X_API_SECRET }}
           X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}

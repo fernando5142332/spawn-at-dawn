@@ -8,6 +8,7 @@
 //   Mastodon  MASTODON_URL (https://instancia), MASTODON_TOKEN
 //   Telegram  TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT (@canal o id)
 //   Discord   DISCORD_WEBHOOK
+//   Threads   THREADS_TOKEN (token de larga duración de la API de Threads; caduca a los 60 días)
 //   X         X_API_KEY, X_API_SECRET, X_ACCESS_TOKEN, X_ACCESS_SECRET
 //
 // Las credenciales nunca se guardan en el repositorio: van como "secrets" de GitHub Actions.
@@ -102,6 +103,18 @@ const NETWORKS = {
     ready: () => env.DISCORD_WEBHOOK, limit: 1000,
     check: async () => (await get(env.DISCORD_WEBHOOK)).name,
     send: (p) => post(env.DISCORD_WEBHOOK, { content: p.text, allowed_mentions: { parse: [] } }),
+  },
+  threads: {
+    ready: () => env.THREADS_TOKEN, limit: 500,
+    check: async () => `@${(await get(`https://graph.threads.net/v1.0/me?fields=username&access_token=${encodeURIComponent(env.THREADS_TOKEN)}`)).username}`,
+    // Threads publica en dos pasos: se crea el contenedor y después se publica.
+    async send(p) {
+      const api = 'https://graph.threads.net/v1.0/me';
+      const form = (o) => ({ method: 'POST', headers: { 'content-type': 'application/x-www-form-urlencoded' }, body: new URLSearchParams({ ...o, access_token: env.THREADS_TOKEN }) });
+      const { id } = await json(`${api}/threads`, form({ media_type: 'TEXT', text: p.text, link_attachment: p.url }));
+      await new Promise((r) => setTimeout(r, 4000));
+      await json(`${api}/threads_publish`, form({ creation_id: id }));
+    },
   },
   x: {
     ready: () => env.X_API_KEY && env.X_API_SECRET && env.X_ACCESS_TOKEN && env.X_ACCESS_SECRET, limit: 280, urlWeight: 23,
