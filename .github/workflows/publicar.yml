@@ -10,6 +10,9 @@ on:
       edicion:
         description: Edición (AAAA-MM-DD) que anunciar en redes; vacío para no anunciar
         required: false
+      solo_red:
+        description: Limitar el anuncio a una red (bluesky, mastodon, telegram, discord o x)
+        required: false
       comprobar_redes:
         description: Solo validar las credenciales de redes, sin publicar nada
         type: boolean
@@ -78,8 +81,9 @@ jobs:
           node-version: 22
       - name: Publicar en redes
         run: |
-          if [ "$COMPROBAR" = "true" ]; then node scripts/social-post.mjs --check; else node scripts/social-post.mjs --date "$EDICION"; fi
+          if [ "$COMPROBAR" = "true" ]; then node scripts/social-post.mjs --check; else node scripts/social-post.mjs --date "$EDICION" ${SOLO:+--only "$SOLO"}; fi
         env:
+          SOLO: ${{ inputs.solo_red }}
           COMPROBAR: ${{ inputs.comprobar_redes }}
           EDICION: ${{ needs.web.outputs.edicion }}
           SITE_URL: ${{ needs.web.outputs.url }}

@@ -2,6 +2,7 @@
 // Publica la edición del día en las redes que tengan credenciales en variables de entorno.
 // Sin dependencias. Uso: node scripts/social-post.mjs [--dry-run] [--date AAAA-MM-DD]
 //                     node scripts/social-post.mjs --check   (valida las credenciales sin publicar nada)
+//                     … --only x                           (limita la ejecución a una red)
 //
 //   Bluesky   BLUESKY_HANDLE, BLUESKY_APP_PASSWORD
 //   Mastodon  MASTODON_URL (https://instancia), MASTODON_TOKEN
@@ -108,7 +109,8 @@ const NETWORKS = {
   },
 };
 
-const active = Object.entries(NETWORKS).filter(([, n]) => DRY || n.ready());
+const only = args.includes('--only') ? args[args.indexOf('--only') + 1] : '';
+const active = Object.entries(NETWORKS).filter(([name, n]) => (!only || name === only) && (DRY || n.ready()));
 if (!active.length) { console.log('No hay credenciales de ninguna red: no se publica nada.'); process.exit(0); }
 
 if (CHECK) {
