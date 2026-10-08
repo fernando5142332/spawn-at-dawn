@@ -128,7 +128,12 @@ for (const [name, net] of active) {
   const posts = compose(net.limit, net.urlWeight);
   if (DRY) { console.log(`\n── ${name} (límite ${net.limit}) ──`); posts.forEach((p) => console.log(`${p.text}\n[${p.text.length} caracteres]\n`)); continue; }
   for (const p of posts) {
-    try { await net.send(p); console.log(`✔ ${name}: ${p.url}`); } catch (err) { failed++; console.error(`✖ ${name}: ${err.message}`); break; }
+    try { await net.send(p); console.log(`✔ ${name}: ${p.url}`); } catch (err) {
+      // Sin saldo en la cuenta de desarrollador de X: se avisa, pero no se da por fallida la publicación del resto.
+      if (name === 'x' && /HTTP 402/.test(err.message)) console.log('::warning::X: la cuenta de desarrollador no tiene saldo; no se ha publicado en X.');
+      else { failed++; console.error(`✖ ${name}: ${err.message}`); }
+      break;
+    }
     await new Promise((r) => setTimeout(r, 1500));
   }
 }
