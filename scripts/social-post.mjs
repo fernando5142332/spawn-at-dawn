@@ -87,7 +87,15 @@ const NETWORKS = {
   },
   telegram: {
     ready: () => env.TELEGRAM_BOT_TOKEN && env.TELEGRAM_CHAT, limit: 1000,
-    check: async () => (await get(`https://api.telegram.org/bot${env.TELEGRAM_BOT_TOKEN}/getChat?chat_id=${encodeURIComponent(env.TELEGRAM_CHAT)}`)).result.title,
+    // No basta con que el canal exista: el bot tiene que ser administrador con permiso para publicar.
+    async check() {
+      const api = `https://api.telegram.org/bot${env.TELEGRAM_BOT_TOKEN}`;
+      const chat = encodeURIComponent(env.TELEGRAM_CHAT);
+      const me = (await get(`${api}/getMe`)).result;
+      const member = (await get(`${api}/getChatMember?chat_id=${chat}&user_id=${me.id}`)).result;
+      if (member.status !== 'administrator' || member.can_post_messages === false) throw new Error(`el bot @${me.username} no es administrador con permiso de publicar en ${env.TELEGRAM_CHAT}`);
+      return `${(await get(`${api}/getChat?chat_id=${chat}`)).result.title}, bot @${me.username}`;
+    },
     send: (p) => post(`https://api.telegram.org/bot${env.TELEGRAM_BOT_TOKEN}/sendMessage`, { chat_id: env.TELEGRAM_CHAT, text: p.text }),
   },
   discord: {
