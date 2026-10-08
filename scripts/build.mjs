@@ -146,7 +146,7 @@ const adSlot = (k, l) => (ads && cfg.monetization.slots?.[k] ? `<aside class="ad
 
 const SOCIAL = {
   bluesky: ['Bluesky', (v) => `https://bsky.app/profile/${v}`], mastodon: ['Mastodon', (v) => v], x: ['X', (v) => `https://x.com/${v}`],
-  telegram: ['Telegram', (v) => `https://t.me/${v}`], instagram: ['Instagram', (v) => `https://instagram.com/${v}`], tiktok: ['TikTok', (v) => `https://www.tiktok.com/@${v}`],
+  telegram: ['Telegram', (v) => `https://t.me/${v}`], threads: ['Threads', (v) => `https://www.threads.com/@${v}`], instagram: ['Instagram', (v) => `https://instagram.com/${v}`], tiktok: ['TikTok', (v) => `https://www.tiktok.com/@${v}`],
   youtube: ['YouTube', (v) => `https://www.youtube.com/@${v}`], discord: ['Discord', (v) => v],
 };
 const socialLinks = () => Object.entries(cfg.social ?? {}).filter(([k, v]) => v && SOCIAL[k]).map(([k, v]) => `<a href="${e(SOCIAL[k][1](v))}" target="_blank" rel="me noopener">${SOCIAL[k][0]}</a>`);
