@@ -1,0 +1,90 @@
+# Cada push a main: genera el sitio, lo publica en GitHub Pages y, si el push
+# añade una edición nueva, la anuncia en las redes que tengan secrets configurados.
+name: Publicar
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+    inputs:
+      edicion:
+        description: Edición (AAAA-MM-DD) que anunciar en redes; vacío para no anunciar
+        required: false
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  web:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    outputs:
+      edicion: ${{ inputs.edicion || steps.nueva.outputs.edicion }}
+      url: ${{ steps.pages.outputs.base_url }}
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+      - id: pages
+        uses: actions/configure-pages@v5
+      - name: Generar el sitio
+        run: node scripts/build.mjs
+        env:
+          SITE_URL: ${{ steps.pages.outputs.base_url }}
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: dist
+      - id: deploy
+        uses: actions/deploy-pages@v4
+      - id: nueva
+        name: ¿Hay edición nueva en este push?
+        env:
+          BEFORE: ${{ github.event.before }}
+        run: |
+          if ! git cat-file -e "${BEFORE}^{commit}" 2>/dev/null; then BEFORE=$(git rev-list --max-parents=0 HEAD | tail -1); fi
+          nueva=$(git diff --diff-filter=A --name-only "$BEFORE" HEAD -- data/editions | sort | tail -1)
+          echo "edicion=$(basename "${nueva:-}" .json)" >> "$GITHUB_OUTPUT"
+      - name: Avisar a los buscadores (IndexNow)
+        if: inputs.edicion != '' || steps.nueva.outputs.edicion != ''
+        continue-on-error: true
+        run: node scripts/indexnow.mjs --date "$EDICION"
+        env:
+          EDICION: ${{ inputs.edicion || steps.nueva.outputs.edicion }}
+          SITE_URL: ${{ steps.pages.outputs.base_url }}
+
+  redes:
+    needs: web
+    if: needs.web.outputs.edicion != ''
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+      - name: Publicar en redes
+        run: node scripts/social-post.mjs --date "$EDICION"
+        env:
+          EDICION: ${{ needs.web.outputs.edicion }}
+          SITE_URL: ${{ needs.web.outputs.url }}
+          BLUESKY_HANDLE: ${{ secrets.BLUESKY_HANDLE }}
+          BLUESKY_APP_PASSWORD: ${{ secrets.BLUESKY_APP_PASSWORD }}
+          MASTODON_URL: ${{ secrets.MASTODON_URL }}
+          MASTODON_TOKEN: ${{ secrets.MASTODON_TOKEN }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT: ${{ secrets.TELEGRAM_CHAT }}
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+          X_API_KEY: ${{ secrets.X_API_KEY }}
+          X_API_SECRET: ${{ secrets.X_API_SECRET }}
+          X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
+          X_ACCESS_SECRET: ${{ secrets.X_ACCESS_SECRET }}

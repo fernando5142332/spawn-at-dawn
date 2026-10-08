@@ -1,0 +1,54 @@
+# La rutina diaria no escribe en main: sube la edición a una rama claude/…; aquí se
+# comprueba que solo trae ediciones, se valida, se lleva a main y se lanza la publicación.
+# Cualquier rama que toque otros archivos se queda sin publicar, a la espera de revisión.
+name: Recibir edición
+
+on:
+  push:
+    branches: ['claude/**']
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: recibir-edicion
+  cancel-in-progress: false
+
+jobs:
+  integrar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+      - id: rama
+        name: Poner la rama al día con main
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git fetch origin main
+          git merge --no-edit origin/main
+          ajenos=$(git diff --name-only origin/main HEAD | grep -vE '^data/editions/[0-9]{4}-[0-9]{2}-[0-9]{2}\.json$' || true)
+          if [ -n "$ajenos" ]; then
+            echo "::error::La rama modifica archivos que no son ediciones; no se publica automáticamente:"
+            echo "$ajenos"
+            exit 1
+          fi
+          nueva=$(git diff --diff-filter=A --name-only origin/main HEAD -- data/editions | sort | tail -1)
+          echo "edicion=$(basename "${nueva:-}" .json)" >> "$GITHUB_OUTPUT"
+      - name: Validar la edición
+        run: node scripts/build.mjs
+      - name: Llevar a main
+        run: git push origin HEAD:main
+      - name: Publicar web y redes
+        env:
+          GH_TOKEN: ${{ github.token }}
+          EDICION: ${{ steps.rama.outputs.edicion }}
+        run: gh workflow run publicar.yml --ref main -f edicion="$EDICION"
+      - name: Borrar la rama ya integrada
+        continue-on-error: true
+        run: git push origin --delete "$GITHUB_REF_NAME"

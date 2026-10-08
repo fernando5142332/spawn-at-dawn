@@ -1,0 +1,40 @@
+{
+  "name": "Spawn at Dawn",
+  "siteUrl": "http://localhost:4173",
+  "customDomain": "",
+  "tagline": {
+    "es": "Las noticias de videojuegos de cada mañana, resumidas y con sus fuentes",
+    "en": "Every morning's video game news, summarised and sourced"
+  },
+  "contactEmail": "",
+  "indexNowKey": "fe885c49adbbad26b42a914183b9195d",
+  "verification": {
+    "google": "RDV6atmKcPB6e0UWkAfMHS1G4cPAJPDnCCDmbCRKRTI",
+    "bing": ""
+  },
+  "social": {
+    "bluesky": "spawnatdawn.bsky.social",
+    "mastodon": "https://mastodon.social/@spawnatdawn",
+    "x": "",
+    "telegram": "",
+    "instagram": "",
+    "tiktok": "",
+    "youtube": "",
+    "discord": ""
+  },
+  "monetization": {
+    "adsenseClient": "",
+    "slots": {
+      "home": "",
+      "article": ""
+    },
+    "premium": {
+      "checkoutUrl": "",
+      "priceLabel": {
+        "es": "2 € al mes",
+        "en": "€2 a month"
+      },
+      "codeHashes": []
+    }
+  }
+}

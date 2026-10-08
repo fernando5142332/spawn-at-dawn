@@ -1,0 +1,46 @@
+{
+  "_comment": "Fuentes que revisa la rutina cada mañana. kind: media (prensa), official (blogs oficiales), social (comunidades/redes), video (canales de YouTube).",
+  "feeds": [
+    { "name": "IGN", "lang": "en", "kind": "media", "url": "https://feeds.feedburner.com/ign/all" },
+    { "name": "GameSpot", "lang": "en", "kind": "media", "url": "https://www.gamespot.com/feeds/news/" },
+    { "name": "Eurogamer", "lang": "en", "kind": "media", "url": "https://www.eurogamer.net/feed/news" },
+    { "name": "PC Gamer", "lang": "en", "kind": "media", "url": "https://www.pcgamer.com/rss/" },
+    { "name": "VGC", "lang": "en", "kind": "media", "url": "https://www.videogameschronicle.com/feed/" },
+    { "name": "Polygon", "lang": "en", "kind": "media", "url": "https://www.polygon.com/rss/index.xml" },
+    { "name": "Kotaku", "lang": "en", "kind": "media", "url": "https://kotaku.com/rss" },
+    { "name": "GamesIndustry.biz", "lang": "en", "kind": "media", "url": "https://www.gamesindustry.biz/feed/news" },
+    { "name": "Rock Paper Shotgun", "lang": "en", "kind": "media", "url": "https://www.rockpapershotgun.com/feed/news" },
+    { "name": "Nintendo Life", "lang": "en", "kind": "media", "url": "https://www.nintendolife.com/feeds/latest" },
+    { "name": "Push Square", "lang": "en", "kind": "media", "url": "https://www.pushsquare.com/feeds/latest" },
+    { "name": "Pure Xbox", "lang": "en", "kind": "media", "url": "https://www.purexbox.com/feeds/latest" },
+    { "name": "Gematsu", "lang": "en", "kind": "media", "url": "https://www.gematsu.com/feed" },
+    { "name": "The Verge (Games)", "lang": "en", "kind": "media", "url": "https://www.theverge.com/rss/games/index.xml" },
+    { "name": "Game Developer", "lang": "en", "kind": "media", "url": "https://www.gamedeveloper.com/rss.xml" },
+    { "name": "Insider Gaming", "lang": "en", "kind": "media", "url": "https://insider-gaming.com/feed/" },
+
+    { "name": "Vandal", "lang": "es", "kind": "media", "url": "https://vandal.elespanol.com/xml.cgi" },
+    { "name": "3DJuegos", "lang": "es", "kind": "media", "url": "https://www.3djuegos.com/index.xml" },
+    { "name": "Eurogamer.es", "lang": "es", "kind": "media", "url": "https://www.eurogamer.es/feed/news" },
+    { "name": "MeriStation", "lang": "es", "kind": "media", "url": "https://feeds.as.com/mrss-s/pages/as/site/as.com/section/meristation/portada/" },
+    { "name": "Areajugones", "lang": "es", "kind": "media", "url": "https://areajugones.sport.es/feed/" },
+    { "name": "Nintenderos", "lang": "es", "kind": "media", "url": "https://www.nintenderos.com/feed/" },
+
+    { "name": "PlayStation Blog", "lang": "en", "kind": "official", "url": "https://blog.playstation.com/feed/" },
+    { "name": "Xbox Wire", "lang": "en", "kind": "official", "url": "https://news.xbox.com/en-us/feed/" },
+    { "name": "Steam News", "lang": "en", "kind": "official", "url": "https://store.steampowered.com/feeds/news.xml" },
+
+    { "name": "r/Games", "lang": "en", "kind": "social", "url": "https://www.reddit.com/r/Games/top/.rss?t=day&limit=15" },
+    { "name": "r/gaming", "lang": "en", "kind": "social", "url": "https://www.reddit.com/r/gaming/top/.rss?t=day&limit=10" },
+    { "name": "r/pcgaming", "lang": "en", "kind": "social", "url": "https://www.reddit.com/r/pcgaming/top/.rss?t=day&limit=10" },
+    { "name": "r/NintendoSwitch", "lang": "en", "kind": "social", "url": "https://www.reddit.com/r/NintendoSwitch/top/.rss?t=day&limit=8" },
+    { "name": "r/PS5", "lang": "en", "kind": "social", "url": "https://www.reddit.com/r/PS5/top/.rss?t=day&limit=8" },
+    { "name": "r/xbox", "lang": "en", "kind": "social", "url": "https://www.reddit.com/r/xbox/top/.rss?t=day&limit=8" },
+
+    { "name": "YouTube · PlayStation", "lang": "en", "kind": "video", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-2Y8dQb0S6DtpxNgAKoJKA" },
+    { "name": "YouTube · Xbox", "lang": "en", "kind": "video", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjBp_7RuDBUYbd1LegWEJ8g" },
+    { "name": "YouTube · Nintendo of America", "lang": "en", "kind": "video", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGIY_O-8vW4rfX98KlMkvRg" }
+  ],
+  "steam": {
+    "featured": "https://store.steampowered.com/api/featuredcategories?cc=es&l=spanish"
+  }
+}

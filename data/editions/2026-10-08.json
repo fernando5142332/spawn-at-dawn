@@ -1,0 +1,891 @@
+{
+  "date": "2026-10-08",
+  "headline": {
+    "es": "Night City se va al cine y GTA 6 sube el volumen",
+    "en": "Night City heads to the movies and GTA 6 turns up the volume"
+  },
+  "intro": {
+    "es": "Cyberpunk 2077 tendrá película, Rockstar enseña la radio de GTA 6, Forza Horizon 6 pone fecha a su salto a PS5 y Xbox crea una división para llevar sus sagas al cine. Todo lo importante del día, resumido y con sus fuentes.",
+    "en": "Cyberpunk 2077 is getting a film, Rockstar shows off GTA 6's radio, Forza Horizon 6 dates its PS5 debut and Xbox spins up a division to take its franchises to the screen. The day's essentials, summarised and sourced."
+  },
+  "stories": [
+    {
+      "id": "cyberpunk-2077-pelicula-paramount",
+      "category": "adaptaciones",
+      "title": {
+        "es": "Cyberpunk 2077 tendrá película de imagen real con Paramount",
+        "en": "Cyberpunk 2077 is getting a live-action movie at Paramount"
+      },
+      "dek": {
+        "es": "CD Projekt Red confirma el proyecto, que producirá Lorenzo di Bonaventura (Transformers). Aún no hay director, guionista ni fecha.",
+        "en": "CD Projekt Red has confirmed the project, produced by Transformers' Lorenzo di Bonaventura. No director, writer or date yet."
+      },
+      "body": {
+        "es": [
+          "Paramount Pictures ha puesto en marcha una película de imagen real ambientada en el universo de Cyberpunk 2077. La noticia la adelantó Deadline y CD Projekt Red la confirmó poco después en sus redes, donde se mostró ilusionada por contar con Paramount como socio.",
+          "Al frente de la producción está Lorenzo di Bonaventura, responsable de las sagas cinematográficas de Transformers y G.I. Joe. El proyecto está en una fase muy temprana: no se ha anunciado director, guionista, reparto ni ventana de estreno, y tampoco se han dado detalles del argumento."
+        ],
+        "en": [
+          "Paramount Pictures is developing a live-action film set in the Cyberpunk 2077 universe. Deadline broke the story and CD Projekt Red confirmed it shortly afterwards on social media, saying it was excited to have Paramount as a partner.",
+          "Lorenzo di Bonaventura, the producer behind the Transformers and G.I. Joe film series, is on board. The project is at a very early stage: no director, writer, cast or release window has been announced, and plot details are under wraps."
+        ]
+      },
+      "why": {
+        "es": "Tras el éxito del anime Edgerunners, Cyberpunk se consolida como franquicia multimedia justo cuando Hollywood se disputa las grandes licencias de videojuegos.",
+        "en": "After the success of the Edgerunners anime, Cyberpunk is cementing itself as a multimedia franchise just as Hollywood scrambles for big video game licences."
+      },
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/capsule_616x353.jpg",
+        "credit": "CD PROJEKT RED / Steam",
+        "creditUrl": "https://store.steampowered.com/app/1091500/"
+      },
+      "sources": [
+        {
+          "name": "Gematsu",
+          "url": "https://www.gematsu.com/2026/10/cyberpunk-2077-live-action-film-in-development-at-paramount-pictures"
+        },
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/news/cyberpunk-2077-is-getting-a-live-action-movie-from-paramount/"
+        },
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/games/1008327/paramount-pictures-cyberpunk-2077-film-movie"
+        },
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/tv-series/noticias/cyberpunk-2077-tendra-pelicula-sera-productor-peores-cintas-jamas-hechas-quien-lleve-a-cabo"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-emisoras-radio-podcasts",
+      "category": "juegos",
+      "title": {
+        "es": "GTA 6 presenta sus primeras emisoras y te deja escuchar la radio a pie",
+        "en": "GTA 6 reveals its first radio stations — and lets you listen on foot"
+      },
+      "dek": {
+        "es": "Rockstar desvela seis emisoras con adelantos de audio y estrena pódcast a la carta y auriculares dentro del juego.",
+        "en": "Rockstar unveils six stations with audio previews, plus on-demand podcasts and in-game earbuds."
+      },
+      "body": {
+        "es": [
+          "Rockstar ha publicado en la web oficial de Grand Theft Auto VI las seis primeras emisoras del juego, con fragmentos para escucharlas: Cocoteo FM (música latina), Back Country Radio (country), AfroBank FM (música africana), The Chamber 106.6 (metal), Flash FM (pop) y Dirty South Classics (rap sureño).",
+          "La gran novedad es que la música ya no se queda en el coche: los protagonistas podrán conectar unos auriculares a su móvil y seguir escuchando la radio a pie. Además, por primera vez en la saga habrá pódcast a la carta. Kotaku y Eurogamer.es destacan que entre los locutores hay artistas como Bad Bunny, Lana Del Rey y Robyn.",
+          "El mismo día Rockstar abrió la tienda oficial de merchandising del juego, y en redes circuló una nueva filtración de unos 25 minutos de gameplay que la compañía no ha comentado."
+        ],
+        "en": [
+          "Rockstar has published the first six Grand Theft Auto VI radio stations on the game's official site, complete with audio previews: Cocoteo FM (Latin), Back Country Radio (country), AfroBank FM (African music), The Chamber 106.6 (metal), Flash FM (pop) and Dirty South Classics (Southern rap).",
+          "The big change is that music no longer stays in the car: the protagonists can plug earbuds into their phone and keep listening on foot. On-demand podcasts also arrive for the first time in the series. Kotaku and Eurogamer.es note that the hosts include artists such as Bad Bunny, Lana Del Rey and Robyn.",
+          "On the same day Rockstar opened the game's official merch store, while a new leak of roughly 25 minutes of gameplay did the rounds online. The company has not commented on it."
+        ]
+      },
+      "why": {
+        "es": "La radio es una seña de identidad de GTA: poder llevársela fuera del coche cambia cómo se recorre el mapa y da pistas del calibre de los fichajes musicales.",
+        "en": "Radio is part of GTA's identity: taking it out of the car changes how you roam the map and hints at the calibre of the musical line-up."
+      },
+      "image": {
+        "url": "https://i.ytimg.com/vi/VQRLujxTm3c/maxresdefault.jpg",
+        "thumb": "https://i.ytimg.com/vi/VQRLujxTm3c/maxresdefault.jpg",
+        "credit": "Rockstar Games / YouTube",
+        "creditUrl": "https://www.youtube.com/watch?v=VQRLujxTm3c"
+      },
+      "sources": [
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/news/rockstar-reveals-some-of-gta-6s-radio-stations-says-players-can-now-listen-to-the-radio-and-podcasts-on-foot/"
+        },
+        {
+          "name": "Eurogamer",
+          "url": "https://www.eurogamer.net/gta-6-headpones-earbuds-radio-podcasts"
+        },
+        {
+          "name": "Eurogamer.es",
+          "url": "https://www.eurogamer.es/bad-bunny-lana-del-rey-y-robyn-presentaran-radios-en-grand-theft-auto-6"
+        },
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/gta-6-has-some-very-famous-musicians-hosting-its-radio-stations-including-bad-bunny-2000742646"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026281026/gta-6-anuncia-sus-primeras-emisoras-de-radios-podcast-y-una-gran-novedad-podremos-escucharlos-fuera-del-coche/"
+        },
+        {
+          "name": "Insider Gaming",
+          "url": "https://insider-gaming.com/official-gta-6-merch-store-opened-rockstar-games/"
+        }
+      ]
+    },
+    {
+      "id": "forza-horizon-6-ps5-fecha-enero-2027",
+      "category": "playstation",
+      "title": {
+        "es": "Forza Horizon 6 llegará a PS5 el 26 de enero de 2027 junto a su primera expansión",
+        "en": "Forza Horizon 6 hits PS5 on January 26, 2027 alongside its first expansion"
+      },
+      "dek": {
+        "es": "Habrá edición física y acceso anticipado el día 21 con la Premium. Varios medios lo leen como un retraso respecto a lo esperado.",
+        "en": "There will be a physical edition, with Premium early access from the 21st. Several outlets are calling it a delay."
+      },
+      "body": {
+        "es": [
+          "Forza Horizon 6 ya tiene fecha en PlayStation 5: saldrá el 26 de enero de 2027 en formato físico y digital, con acceso anticipado desde el 21 de enero para quienes compren la Premium Edition. Medios como GameSpot, Polygon y The Verge hablan de retraso, ya que la versión se esperaba antes.",
+          "Ese mismo día se lanzará en todas las plataformas la primera expansión de pago del juego, acompañada de una actualización gratuita. El título de Playground Games, ambientado en Japón y con más de 550 coches, salió el 19 de mayo en Xbox Series y PC."
+        ],
+        "en": [
+          "Forza Horizon 6 finally has a PlayStation 5 date: January 26, 2027, in both physical and digital form, with early access from January 21 for Premium Edition buyers. GameSpot, Polygon and The Verge describe it as a delay, as the port was expected sooner.",
+          "The game's first paid expansion launches the same day on all platforms, together with a free update. Playground Games' racer, set in Japan with more than 550 cars, came out on May 19 for Xbox Series and PC."
+        ]
+      },
+      "why": {
+        "es": "Es otro gran juego de Xbox Game Studios que salta a PlayStation, y lo hace con edición en disco en plena discusión sobre el futuro del formato físico.",
+        "en": "It's another major Xbox Game Studios title jumping to PlayStation, and it does so with a disc edition amid the debate over the future of physical games."
+      },
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/bd1e762f4720cb68af365f2e41d002f14dd74fbf/header_alt_assets_5.jpg",
+        "credit": "Xbox Game Studios / Steam",
+        "creditUrl": "https://store.steampowered.com/app/2483190/"
+      },
+      "sources": [
+        {
+          "name": "Gematsu",
+          "url": "https://www.gematsu.com/2026/10/forza-horizon-6-for-ps5-launches-january-26-2027-alongside-first-expansion"
+        },
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/news/forza-horizon-6-officially-dated-for-ps5-alongside-an-expansion/"
+        },
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/news/989314/forza-horizon-6-ps5-release-date-january-2027-delay"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026281042/forza-horizon-6-confirma-su-fecha-de-lanzamiento-en-ps5-con-edicion-fisica-y-anuncia-su-primera-expansion/"
+        }
+      ]
+    },
+    {
+      "id": "xbox-xp-division-cine-tv-parques",
+      "category": "xbox",
+      "title": {
+        "es": "Xbox crea XP, una división para llevar sus sagas al cine, la tele y los parques temáticos",
+        "en": "Xbox launches XP, a division to take its franchises to film, TV and theme parks"
+      },
+      "dek": {
+        "es": "Kayleen Walters presidirá la nueva área y Maria Angelidou-Smith será la nueva CEO de Mojang desde el 19 de octubre.",
+        "en": "Kayleen Walters will run the new unit, while Maria Angelidou-Smith becomes Mojang's CEO on October 19."
+      },
+      "body": {
+        "es": [
+          "La CEO de Xbox, Asha Sharma, ha comunicado a la plantilla la creación de XP, una división dedicada a cómo se viven las franquicias de la casa más allá de los juegos. Se organiza en cuatro ramas: Xbox Pictures (cine y televisión), Xbox Products (licencias y merchandising), Xbox Partnerships (marcas y patrocinios) y Xbox Places (eventos, parques temáticos y experiencias presenciales).",
+          "Al frente estará Kayleen Walters, procedente de Mojang, donde convirtió los productos de consumo de Minecraft en un negocio multimillonario, y con pasado en Lucasfilm. En paralelo, Maria Angelidou-Smith, exdirectiva de Meta donde lideró Facebook Groups, asumirá el puesto de CEO de Mojang el 19 de octubre."
+        ],
+        "en": [
+          "Xbox CEO Asha Sharma has told staff the company is creating XP, a division focused on how people experience its franchises beyond the games. It has four branches: Xbox Pictures (film and TV), Xbox Products (licensing and merchandise), Xbox Partnerships (brands and sponsors) and Xbox Places (events, theme parks and location-based experiences).",
+          "It will be led by Kayleen Walters, who built Minecraft's consumer products into a multibillion-dollar business at Mojang and previously worked at Lucasfilm. Separately, Maria Angelidou-Smith, a former Meta executive who led Facebook Groups, takes over as Mojang CEO on October 19."
+        ]
+      },
+      "why": {
+        "es": "Xbox sigue los pasos de Nintendo y Sony en cine y televisión mientras recorta en estudios: el negocio se mueve de la consola a la marca.",
+        "en": "Xbox is following Nintendo and Sony into film and TV while cutting back on studios: the business is shifting from the console to the brand."
+      },
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Xbox_Series_X%E3%81%A8Series_S.jpg/1280px-Xbox_Series_X%E3%81%A8Series_S.jpg",
+        "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Xbox_Series_X%E3%81%A8Series_S.jpg/960px-Xbox_Series_X%E3%81%A8Series_S.jpg",
+        "credit": "Kyu3a / Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Xbox_Series_X%E3%81%A8Series_S.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      },
+      "sources": [
+        {
+          "name": "Xbox Wire",
+          "url": "https://news.xbox.com/en-us/2026/10/08/new-leadership-appointments-and-xbox-division/"
+        },
+        {
+          "name": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/xbox-announces-new-xp-division-to-deliver-transmedia-spinoffs-including-film-tv-and-theme-parks"
+        },
+        {
+          "name": "Eurogamer",
+          "url": "https://www.eurogamer.net/xbox-xp-product-partnerships-places-productions"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026281020/xbox-desvela-xp-su-ambiciosa-division-centrada-en-llevar-sus-licencias-al-cine-television-y-otras-experiencias/"
+        }
+      ]
+    },
+    {
+      "id": "ventas-eeuu-agosto-consolas-peor-dato-13-anos",
+      "category": "industria",
+      "title": {
+        "es": "Las consolas firman en EE. UU. su peor agosto en 13 años",
+        "en": "US console sales just had their worst August in 13 years"
+      },
+      "dek": {
+        "es": "Las ventas de hardware caen un 15 % y el gasto total un 9 %, según Circana. NBA 2K27 lidera y las Game-Key Cards de Switch 2 se disparan.",
+        "en": "Hardware units fell 15% and total spending 9%, according to Circana. NBA 2K27 leads and Switch 2 Game-Key Cards surge."
+      },
+      "body": {
+        "es": [
+          "El informe mensual de Circana, adelantado por su analista Mat Piscatella, deja un agosto flojo en Estados Unidos: se vendieron 559.000 consolas, un 15 % menos que un año antes y la cifra más baja para ese mes desde 2013. Las unidades de PlayStation bajaron un 11 % y las de Xbox un 31 %; el gasto total del mercado cayó un 9 %, hasta 4.300 millones de dólares.",
+          "Switch 2 fue la consola más vendida en unidades, aunque también por debajo de 2025, mientras que PS5 ingresó un 17 % más pese a vender menos máquinas. En juegos, NBA 2K27 fue el más vendido —ya es el tercero del año—, seguido de Madden NFL 27 y Marvel Tōkon: Fighting Souls. Otro dato llamativo: el gasto en Game-Key Cards de Switch 2 ha crecido un 631 %."
+        ],
+        "en": [
+          "Circana's monthly report, shared by analyst Mat Piscatella, paints a weak August in the United States: 559,000 consoles were sold, down 15% year on year and the lowest August figure since 2013. PlayStation units fell 11% and Xbox units 31%, while total market spending dropped 9% to $4.3 billion.",
+          "Switch 2 was the best-selling console by units, though also below 2025, while PS5 dollar sales rose 17% despite fewer machines sold. On the software side NBA 2K27 came top — it is already the year's third best-seller — ahead of Madden NFL 27 and Marvel Tōkon: Fighting Souls. Another eye-catching figure: spending on Switch 2 Game-Key Cards is up 631%."
+        ]
+      },
+      "why": {
+        "es": "Menos consolas vendidas pero a mayor precio: el mercado estadounidense marca la pauta de cómo llegará la industria a la campaña navideña.",
+        "en": "Fewer consoles sold at higher prices: the US market sets the tone for how the industry heads into the holiday season."
+      },
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Nintendo_Switch_2_in_Docking_Console.jpg/1280px-Nintendo_Switch_2_in_Docking_Console.jpg",
+        "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Nintendo_Switch_2_in_Docking_Console.jpg/960px-Nintendo_Switch_2_in_Docking_Console.jpg",
+        "credit": "Crisco 1492 / Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Nintendo_Switch_2_in_Docking_Console.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      },
+      "sources": [
+        {
+          "name": "GameSpot",
+          "url": "https://www.gamespot.com/articles/us-video-game-hardware-sales-just-had-their-worst-august-in-13-years/"
+        },
+        {
+          "name": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/nba-2k27-tops-us-august-charts-becomes-third-best-selling-game-of-2026-us-monthly-charts"
+        },
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/marvel-tokon-far-exceeds-expectations-in-us-sales-charts-ps5-dollar-spend-up"
+        },
+        {
+          "name": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/spending-on-switch-2-game-key-cards-in-the-u-s-has-risen-by-631percent"
+        }
+      ]
+    },
+    {
+      "id": "triple-i-initiative-octubre-machinarium-2-escapists-3",
+      "category": "indie",
+      "title": {
+        "es": "Triple-i Initiative: Machinarium 2, The Escapists 3 y el resto de anuncios",
+        "en": "Triple-i Initiative: Machinarium 2, The Escapists 3 and everything else announced"
+      },
+      "dek": {
+        "es": "45 minutos de anuncios independientes con secuelas inesperadas, fechas y un cruce entre Dave the Diver y Subnautica 2.",
+        "en": "Forty-five minutes of indie reveals with surprise sequels, dates and a Dave the Diver × Subnautica 2 crossover."
+      },
+      "body": {
+        "es": [
+          "El escaparate Triple-i Initiative de octubre dejó dos regresos sonados. Amanita Design anunció Machinarium 2, secuela dibujada a mano de su aventura gráfica de 2009, que llega 17 años después y con dos protagonistas controlables. Team17, por su parte, presentó The Escapists 3, que da el salto a las 3D y saldrá en PS5, Xbox Series, Switch 2 y PC.",
+          "También hubo fechas: Among Us Story: On Guard llegará el 17 de febrero de 2027, Outward 2 abrirá su acceso anticipado el 8 de febrero y Brotato recibirá el DLC Primal Dread el 2 de noviembre. Dave the Diver cerrará su ciclo de contenidos a comienzos de 2027 con un cruce con Subnautica 2, The Talos Principle III enseñó su primer gameplay y se presentaron Aftergods, Gods With Badges y Lazare's Sacrifice."
+        ],
+        "en": [
+          "October's Triple-i Initiative showcase delivered two headline comebacks. Amanita Design announced Machinarium 2, a hand-drawn sequel to its 2009 adventure arriving 17 years later with two playable protagonists. Team17 revealed The Escapists 3, which moves the series into 3D and is coming to PS5, Xbox Series, Switch 2 and PC.",
+          "There were dates too: Among Us Story: On Guard lands on February 17, 2027, Outward 2 enters early access on February 8, and Brotato gets its Primal Dread DLC on November 2. Dave the Diver will wrap up its DLC run in early 2027 with a Subnautica 2 crossover, The Talos Principle III showed its first gameplay, and Aftergods, Gods With Badges and Lazare's Sacrifice were unveiled."
+        ]
+      },
+      "why": {
+        "es": "El formato confirma que los estudios independientes ya tienen su propio escaparate capaz de generar titulares al nivel de los grandes.",
+        "en": "The format confirms indie studios now have a showcase of their own capable of making headlines on a par with the big players."
+      },
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1619280/797ab16e2b389d9ecb1755c1317f5af60ea98664/ss_797ab16e2b389d9ecb1755c1317f5af60ea98664.1920x1080.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1619280/18dc88dc16572e54aec9b105768bdf44138ea592/header.jpg",
+        "credit": "Amanita Design / Steam",
+        "creditUrl": "https://store.steampowered.com/app/1619280/"
+      },
+      "sources": [
+        {
+          "name": "Insider Gaming",
+          "url": "https://insider-gaming.com/triple-i-initiative-october-showcase-2026-everything-announced/"
+        },
+        {
+          "name": "GameSpot",
+          "url": "https://www.gamespot.com/articles/triple-i-initiative-october-2026-everything-announced-at-the-showcase/"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026281037/machinarium-2-es-oficial-la-querida-aventura-grafica-regresa-17-anos-despues-con-una-secuela-dibujada-a-mano/"
+        },
+        {
+          "name": "Gematsu",
+          "url": "https://www.gematsu.com/2026/10/the-escapists-3-announced-for-ps5-xbox-series-switch-2-and-pc"
+        },
+        {
+          "name": "Eurogamer",
+          "url": "https://www.eurogamer.net/dave-the-diver-final-dlc-subnautica-2-crossover"
+        }
+      ]
+    },
+    {
+      "id": "rainbow-six-mobile-cierre-enero-2027",
+      "category": "movil",
+      "title": {
+        "es": "Ubisoft cerrará Rainbow Six Mobile menos de un año después de su lanzamiento",
+        "en": "Ubisoft is shutting down Rainbow Six Mobile less than a year after launch"
+      },
+      "dek": {
+        "es": "El shooter táctico para móviles se estrenó globalmente en febrero y dirá adiós a mediados de enero de 2027.",
+        "en": "The tactical mobile shooter launched globally in February and will go offline in mid-January 2027."
+      },
+      "body": {
+        "es": [
+          "Ubisoft ha anunciado que Rainbow Six Mobile dejará de funcionar a mediados de enero de 2027. El juego llevaba en pruebas desde 2023, pero su lanzamiento global no se produjo hasta febrero de 2026, por lo que no llegará a cumplir un año disponible para todo el mundo.",
+          "La compañía habla de una «decisión difícil». Según Kotaku, pese a acumular millones de descargas, el título no logró retener a su público, y se suma a otros tropiezos recientes de Ubisoft con los juegos como servicio."
+        ],
+        "en": [
+          "Ubisoft has announced that Rainbow Six Mobile will shut down in mid-January 2027. The game had been in testing since 2023 but only launched globally in February 2026, meaning it won't reach a full year of general availability.",
+          "The company called it a “difficult decision”. According to Kotaku, despite millions of downloads the game failed to hold on to its audience, adding to Ubisoft's recent run of live-service stumbles."
+        ]
+      },
+      "why": {
+        "es": "Es otro aviso sobre lo difícil que resulta trasladar grandes marcas de consola al móvil, incluso con años de pruebas detrás.",
+        "en": "It's another warning about how hard it is to bring big console brands to mobile, even after years of testing."
+      },
+      "image": {
+        "url": "https://i.ytimg.com/vi/U4F8ZivzFM0/maxresdefault.jpg",
+        "thumb": "https://i.ytimg.com/vi/U4F8ZivzFM0/maxresdefault.jpg",
+        "credit": "Ubisoft Latinoamérica / YouTube",
+        "creditUrl": "https://www.youtube.com/watch?v=U4F8ZivzFM0"
+      },
+      "sources": [
+        {
+          "name": "GameSpot",
+          "url": "https://www.gamespot.com/articles/ubisoft-shutting-down-rainbow-six-mobile-after-less-than-a-year/"
+        },
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/rainbow-six-siege-mobile-already-has-a-shutdown-date-just-7-months-into-its-full-release-2000742717"
+        },
+        {
+          "name": "Polygon",
+          "url": "https://www.polygon.com/rainbow-six-mobile-shutting-down-2027-android-ios/"
+        }
+      ]
+    },
+    {
+      "id": "sony-vende-patentes-realidad-virtual-meta",
+      "category": "hardware",
+      "title": {
+        "es": "Sony transfiere a Meta más de 400 patentes de realidad virtual",
+        "en": "Sony is transferring more than 400 VR patents to Meta"
+      },
+      "dek": {
+        "es": "La operación, destapada por ZDNet Korea, incluye 43 patentes en EE. UU. y reabre las dudas sobre el futuro de PS VR2.",
+        "en": "The deal, spotted by ZDNet Korea, includes 43 US patents and reopens questions about PS VR2's future."
+      },
+      "body": {
+        "es": [
+          "Sony está traspasando a Meta un total de 419 patentes relacionadas con visores de realidad virtual y extendida, 43 de ellas registradas en Estados Unidos y transferidas entre junio y septiembre. La información procede de ZDNet Korea y la recogió Road to VR.",
+          "Ninguna de las dos compañías ha hecho declaraciones, pero la prensa especializada lo interpreta como un paso atrás de PlayStation en el hardware de realidad virtual. Conviene tomarlo con cautela: de momento no hay ningún anuncio oficial sobre PS VR2 ni sobre un posible sucesor."
+        ],
+        "en": [
+          "Sony is handing Meta a total of 419 patents relating to virtual and extended reality headsets, 43 of them US patents transferred between June and September. The report comes from ZDNet Korea and was picked up by Road to VR.",
+          "Neither company has commented, but the specialist press reads it as PlayStation stepping back from VR hardware. Some caution is warranted: there has been no official announcement about PS VR2 or a potential successor."
+        ]
+      },
+      "why": {
+        "es": "Si se confirma la lectura, la realidad virtual de consumo quedaría prácticamente en manos de Meta y Valve.",
+        "en": "If that reading is right, consumer VR would be left largely in the hands of Meta and Valve."
+      },
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/PSVR2.png/1280px-PSVR2.png",
+        "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/PSVR2.png/960px-PSVR2.png",
+        "credit": "C.Suthorn / Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:PSVR2.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      },
+      "sources": [
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/sony-seemingly-ends-vr-ambitions-by-selling-patents-to-meta"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026281018/playstation-tira-la-toalla-con-la-realidad-virtual-sony-vende-mas-de-40-patentes-a-meta/"
+        },
+        {
+          "name": "Areajugones",
+          "url": "https://areajugones.sport.es/videojuegos/se-acabo-la-vr-para-sony-vende-419-patentes-a-meta-y-pasa-pagina-despues-de-anos-sin-encontrar-su-mercado/"
+        }
+      ]
+    },
+    {
+      "id": "wolverine-ventas-formato-fisico-europa",
+      "category": "playstation",
+      "title": {
+        "es": "Uno de cada tres Marvel's Wolverine se vendió en disco; en Europa, más de la mitad",
+        "en": "One in three copies of Marvel's Wolverine sold on disc — and more than half in Europe"
+      },
+      "dek": {
+        "es": "Los datos de GSD sitúan el formato físico en el 35 % de las ventas de lanzamiento y en el 51 % en Europa.",
+        "en": "GSD data puts physical at 35% of launch sales, and 51% in Europe."
+      },
+      "body": {
+        "es": [
+          "Según datos de GSD difundidos por The Game Business, el 35 % de las ventas de lanzamiento de Marvel's Wolverine en PS5 correspondió a copias físicas, un porcentaje que sube hasta el 51 % si se mira solo a Europa. Ampere Analysis calcula que el juego, a la venta desde el 15 de septiembre, ha vendido 2,16 millones de unidades entre ambos formatos.",
+          "Sony todavía no ha dado cifras oficiales. El dato llega, como recuerda Push Square, mientras la compañía planea dejar de fabricar juegos de PlayStation en caja a partir de enero de 2028."
+        ],
+        "en": [
+          "According to GSD data shared by The Game Business, physical copies accounted for 35% of Marvel's Wolverine's launch sales on PS5, rising to 51% in Europe alone. Ampere Analysis estimates the game, released on September 15, has sold 2.16 million units across both formats.",
+          "Sony has yet to share official figures. As Push Square points out, the numbers arrive while the company plans to stop producing boxed PlayStation games from January 2028."
+        ]
+      },
+      "why": {
+        "es": "El disco sigue teniendo tirón, sobre todo en Europa, justo cuando los fabricantes preparan el adiós al formato.",
+        "en": "Discs still have pull, especially in Europe, right as platform holders prepare to wave the format goodbye."
+      },
+      "image": {
+        "url": "https://i.ytimg.com/vi/G62QQ42Ewwg/maxresdefault.jpg",
+        "thumb": "https://i.ytimg.com/vi/G62QQ42Ewwg/maxresdefault.jpg",
+        "credit": "PlayStation / YouTube",
+        "creditUrl": "https://www.youtube.com/watch?v=G62QQ42Ewwg"
+      },
+      "sources": [
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/news/35-of-sonys-wolverine-launch-sales-were-the-disc-version-data-suggests/"
+        },
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/europe-shows-up-for-physical-games-51percent-of-wolverines-ps5-sales-for-disc-version"
+        },
+        {
+          "name": "IGN",
+          "url": "https://www.ign.com/articles/35-percent-marvels-wolverine-sales-disc"
+        },
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/physical-sales-of-wolverine-estimated-to-be-surprisingly-high-for-a-company-thats-about-to-ditch-discs-2000742653"
+        }
+      ]
+    },
+    {
+      "id": "star-wars-zero-company-bit-reactor-readmite-plantilla",
+      "category": "industria",
+      "title": {
+        "es": "El estudio de Star Wars Zero Company empieza a readmitir a su plantilla suspendida",
+        "en": "Star Wars Zero Company's studio starts bringing furloughed staff back"
+      },
+      "dek": {
+        "es": "Bit Reactor había dejado sin sueldo a más del 80 % del equipo antes del lanzamiento; más de la mitad vuelve esta semana.",
+        "en": "Bit Reactor had furloughed over 80% of its team before launch; more than half return this week."
+      },
+      "body": {
+        "es": [
+          "Bit Reactor, el estudio responsable del juego de estrategia táctica Star Wars Zero Company, ha comenzado a reincorporar a los empleados que suspendió de empleo y sueldo poco antes del lanzamiento. Su director ejecutivo, Greg Foertsch, asegura que el objetivo es recuperar «a tanta gente como sea posible».",
+          "Según Game Developer, la medida había afectado a más del 80 % de la plantilla y más de la mitad de los afectados vuelve esta semana gracias al buen arranque comercial del juego, que edita Electronic Arts. Queda por aclarar si participarán en los beneficios del lanzamiento."
+        ],
+        "en": [
+          "Bit Reactor, the studio behind tactical strategy game Star Wars Zero Company, has begun bringing back the employees it furloughed without pay shortly before launch. CEO Greg Foertsch says the aim is to bring back “as many people as possible”.",
+          "According to Game Developer, the measure affected more than 80% of staff, and more than half of them are returning this week on the back of the game's strong commercial start. The title is published by Electronic Arts. Whether they will share in the launch profits remains unclear."
+        ]
+      },
+      "why": {
+        "es": "Un final poco habitual en un año marcado por despidos: aquí el éxito del juego sí se traduce en empleos recuperados.",
+        "en": "An unusual ending in a year defined by layoffs: here a game's success is actually translating into jobs restored."
+      },
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2075800/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2075800/2c7d5dad080c4888faaa03c4a955136c50f5bfae/header.jpg",
+        "credit": "Electronic Arts / Steam",
+        "creditUrl": "https://store.steampowered.com/app/2075800/"
+      },
+      "sources": [
+        {
+          "name": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/star-wars-zero-company-developer-bit-reactor-begins-bringing-furloughed-staff-back"
+        },
+        {
+          "name": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/star-wars-zero-company-developer-bit-reactor-brings-back-over-half-of-furloughed-staff"
+        },
+        {
+          "name": "Eurogamer",
+          "url": "https://www.eurogamer.net/star-wars-zero-company-bringing-back-furloughed-staff"
+        },
+        {
+          "name": "Eurogamer.es",
+          "url": "https://www.eurogamer.es/bit-reactor-recupera-a-mas-de-la-mitad-de-los-trabajadores-de-star-wars-zero-company"
+        }
+      ]
+    },
+    {
+      "id": "xbox-game-pass-octubre-battlefield-6",
+      "category": "xbox",
+      "title": {
+        "es": "Battlefield 6 llega a Game Pass el 13 de octubre; Expedition 33 se despide el 15",
+        "en": "Battlefield 6 joins Game Pass on October 13; Expedition 33 leaves on the 15th"
+      },
+      "dek": {
+        "es": "Microsoft detalla nueve incorporaciones hasta el día 16 y la lista de juegos que abandonan el servicio.",
+        "en": "Microsoft details nine additions through the 16th and the list of games leaving the service."
+      },
+      "body": {
+        "es": [
+          "La nueva tanda de Xbox Game Pass arranca hoy con Echo Weaver, Forever Ago y Neon Abyss 2. El plato fuerte llega el 13 de octubre con Battlefield 6 (Ultimate y PC Game Pass), acompañado de Valor Mortis y Deep Dish Dungeon. El día 15 se suman Bluey's Happy Snaps y Chained Beasts, y el 16 Beyond These Stars en PC.",
+          "En la columna de salidas, el 15 de octubre abandonan el catálogo Clair Obscur: Expedition 33, A Plague Tale: Requiem, Pacific Drive, Evil West, Crime Scene Cleaner, Donut County, Nova Roma, Superball y The Casting of Frank Stone."
+        ],
+        "en": [
+          "The latest Xbox Game Pass wave kicks off today with Echo Weaver, Forever Ago and Neon Abyss 2. The headliner arrives on October 13: Battlefield 6 (Ultimate and PC Game Pass), alongside Valor Mortis and Deep Dish Dungeon. Bluey's Happy Snaps and Chained Beasts follow on the 15th, and Beyond These Stars on PC on the 16th.",
+          "On the way out, October 15 sees the departure of Clair Obscur: Expedition 33, A Plague Tale: Requiem, Pacific Drive, Evil West, Crime Scene Cleaner, Donut County, Nova Roma, Superball and The Casting of Frank Stone."
+        ]
+      },
+      "why": {
+        "es": "Si tienes pendiente Expedition 33 en Game Pass, te queda una semana; y Battlefield 6 llega al servicio un año después de su estreno.",
+        "en": "If Expedition 33 is still in your Game Pass backlog you have a week left — and Battlefield 6 arrives a year after its debut."
+      },
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2807960/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2807960/c12d12ce3c7d217398d3fcad77427bfc9d57c570/header.jpg",
+        "credit": "Electronic Arts / Steam",
+        "creditUrl": "https://store.steampowered.com/app/2807960/"
+      },
+      "sources": [
+        {
+          "name": "Xbox Wire",
+          "url": "https://news.xbox.com/en-us/2026/10/07/xbox-game-pass-october-2026-wave-1/"
+        },
+        {
+          "name": "Pure Xbox",
+          "url": "https://www.purexbox.com/news/2026/10/these-nine-games-are-coming-to-xbox-game-pass-including-battlefield-6-october-8-16"
+        },
+        {
+          "name": "Eurogamer.es",
+          "url": "https://www.eurogamer.es/anunciados-los-juegos-de-xbox-game-pass-de-la-primera-mitad-de-octubre-2026"
+        }
+      ]
+    },
+    {
+      "id": "dragons-dogma-2-dark-arisen-analisis",
+      "category": "juegos",
+      "title": {
+        "es": "Dragon's Dogma 2: Dark Arisen convence a la crítica y estrena versión de Switch 2",
+        "en": "Dragon's Dogma 2: Dark Arisen wins over critics as the Switch 2 version arrives"
+      },
+      "dek": {
+        "es": "La expansión de Capcom recibe notas de entre 8 y 9,5, y el port para la consola de Nintendo llega «en excelente forma».",
+        "en": "Capcom's expansion is scoring between 8 and 9.5, and the Nintendo port is said to be “in excellent shape”."
+      },
+      "body": {
+        "es": [
+          "Las primeras críticas de Dragon's Dogma 2: Dark Arisen ya están publicadas y son mayoritariamente positivas: Push Square le da un 9/10 y habla de una expansión «transformadora», RPGFan un 95/100, IGN y But Why Tho? un 8/10 y RPGamer un 3,5/5.",
+          "La expansión llega esta semana a todas las plataformas y coincide con el estreno del juego en Nintendo Switch 2, donde viene incluida de serie. Según Nintendo Life, esa versión funciona sin problemas técnicos destacables. El consenso: imprescindible para quien disfrutó del original, aunque difícilmente hará cambiar de opinión a quien no conectó con él."
+        ],
+        "en": [
+          "The first reviews of Dragon's Dogma 2: Dark Arisen are in and they are largely positive: Push Square gives it 9/10 and calls it a “transformative” expansion, RPGFan 95/100, IGN and But Why Tho? 8/10, and RPGamer 3.5/5.",
+          "The expansion arrives this week on all platforms, coinciding with the game's debut on Nintendo Switch 2, where it comes bundled in. According to Nintendo Life, that version runs without notable technical issues. The consensus: essential for fans of the original, though unlikely to convert anyone who bounced off it."
+        ]
+      },
+      "why": {
+        "es": "Capcom repite la jugada del primer Dark Arisen: una expansión que relanza el juego base y le abre una segunda vida en una nueva consola.",
+        "en": "Capcom is repeating the original Dark Arisen play: an expansion that relaunches the base game and gives it a second life on a new console."
+      },
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2593290/5ed2cb7b124dd248376bb16270c72dfd53aec6e2/ss_5ed2cb7b124dd248376bb16270c72dfd53aec6e2.1920x1080.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2593290/f0224a5ef749d5211a09e6daede81d5b428faf2a/header.jpg",
+        "credit": "CAPCOM Co., Ltd. / Steam",
+        "creditUrl": "https://store.steampowered.com/app/2593290/"
+      },
+      "sources": [
+        {
+          "name": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/round-up-the-reviews-for-dragons-dogma-2-dark-arisen-are-in"
+        },
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/reviews/ps5/dragons-dogma-2-dark-arisen"
+        },
+        {
+          "name": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/heres-the-dragons-dogma-2-dark-arisen-release-time-for-your-region/"
+        }
+      ]
+    }
+  ],
+  "briefs": [
+    {
+      "text": {
+        "es": "The Witcher 3 Remastered recibe un parche que permite desactivar el efecto bloom en consolas; Switch 2 tendrá otro específico para mejorar la nitidez.",
+        "en": "The Witcher 3 Remastered gets a patch that lets console players turn off bloom; Switch 2 will get a separate one to sharpen the image."
+      },
+      "source": {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/witcher-3-remastered-patch-bloom-console-performance-switch-2"
+      }
+    },
+    {
+      "text": {
+        "es": "Bobby Kotick, ex-CEO de Activision Blizzard, entra en el consejo de Skydance, la compañía surgida de la fusión de Paramount y Warner Bros.",
+        "en": "Former Activision Blizzard CEO Bobby Kotick joins the board of Skydance, the company formed from the Paramount–Warner Bros. merger."
+      },
+      "source": {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/bobby-kotick-skydance-board-of-directors-1"
+      }
+    },
+    {
+      "text": {
+        "es": "PS5 integrará el anime en su menú principal con un espacio dedicado a Crunchyroll a partir de la primavera de 2027.",
+        "en": "PS5 will build anime into its main menu with a dedicated Crunchyroll hub from spring 2027."
+      },
+      "source": {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/10/ps5-to-integrate-anime-into-main-menu-as-sony-tightens-ties-with-crunchyroll"
+      }
+    },
+    {
+      "text": {
+        "es": "Riot despide 2XKO con una última gran actualización este mes que añade a Samira y a un luchador sorpresa, Sett.",
+        "en": "Riot bids farewell to 2XKO with one last major update this month, adding Samira and a surprise fighter, Sett."
+      },
+      "source": {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/2xko-sett-announcement-final-update"
+      }
+    },
+    {
+      "text": {
+        "es": "Gravity Well, estudio fundado por veteranos de Respawn, despide a más de 40 personas tras quedarse sin financiación.",
+        "en": "Gravity Well, a studio founded by Respawn veterans, lays off more than 40 people after losing its funding."
+      },
+      "source": {
+        "name": "GamesIndustry.biz",
+        "url": "https://www.gamesindustry.biz/gravity-well-lays-off-more-than-40-developers-after-losing-its-funding"
+      }
+    },
+    {
+      "text": {
+        "es": "Una brecha en Double Counter, un bot de seguridad para Discord, expone alrededor de un millón de correos electrónicos.",
+        "en": "A breach at Double Counter, a Discord security bot, exposes around one million email addresses."
+      },
+      "source": {
+        "name": "GamesIndustry.biz",
+        "url": "https://www.gamesindustry.biz/discord-protection-bot-double-counter-hit-by-breach-exposing-around-1-million-email-addresses"
+      }
+    },
+    {
+      "text": {
+        "es": "Rumor: Sony querría resucitar clásicos de PlayStation con estudios externos, empezando por un nuevo Ape Escape de los creadores de Sonic Mania.",
+        "en": "Rumour: Sony reportedly wants to revive PlayStation classics with outside studios, starting with a new Ape Escape from the Sonic Mania developers."
+      },
+      "source": {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/sony-classic-playstation-games-ape-escape-sonic-mania"
+      }
+    },
+    {
+      "text": {
+        "es": "Minecraft para Switch 2 sale el 27 de octubre; la actualización digital gratuita podrá reclamarse hasta finales de enero de 2027.",
+        "en": "Minecraft for Switch 2 launches on October 27; the free digital upgrade can be claimed until the end of January 2027."
+      },
+      "source": {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/10/minecraft-switch-2-pre-orders-now-live-free-digital-upgrade-path-confirmed-as-limited-time-offer"
+      }
+    },
+    {
+      "text": {
+        "es": "AMD confirma que FSR 4 llegará este año a las consolas portátiles con PC; el soporte para Steam Deck podría tardar más.",
+        "en": "AMD confirms FSR 4 is coming to handheld PCs this year; Steam Deck support could take longer."
+      },
+      "source": {
+        "name": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/amds-handsome-fsr-4-upscaler-is-coming-to-handheld-pcs-this-year-though-steam-deck-support-could-take-longer"
+      }
+    },
+    {
+      "text": {
+        "es": "Google (Playground) y Unity (Spark) presentan plataformas para crear juegos con IA generativa a partir de texto.",
+        "en": "Google (Playground) and Unity (Spark) unveil platforms for making games from text prompts with generative AI."
+      },
+      "source": {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/google-playground-unity-spark-gen-ai-game-creators"
+      }
+    },
+    {
+      "text": {
+        "es": "Arc Raiders vuelve a lo alto de las listas de Steam gracias a su gran actualización.",
+        "en": "Arc Raiders climbs back up the Steam charts on the strength of its big update."
+      },
+      "source": {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/arc-raiders-big-update-has-it-surging-to-numbers-it-hasnt-seen-in-months/"
+      }
+    },
+    {
+      "text": {
+        "es": "Mafia III: Definitive Edition recibe una mejora gratuita a 60 fps nativos en PS5 y Xbox Series.",
+        "en": "Mafia III: Definitive Edition gets a free native 60fps upgrade on PS5 and Xbox Series."
+      },
+      "source": {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/10/mafia-3-definitive-editions-native-60fps-ps5-upgrade-is-out-now-free-for-existing-owners"
+      }
+    },
+    {
+      "text": {
+        "es": "Monster Hunter Rise tendrá versiones para iOS y Android.",
+        "en": "Monster Hunter Rise is getting iOS and Android versions."
+      },
+      "source": {
+        "name": "Eurogamer.es",
+        "url": "https://www.eurogamer.es/monster-hunter-rise-tendra-versiones-para-ios-y-android"
+      }
+    },
+    {
+      "text": {
+        "es": "Microsoft desmiente que tenga la exclusiva del juego en la nube de GTA 6.",
+        "en": "Microsoft denies it has secured cloud streaming exclusivity for GTA 6."
+      },
+      "source": {
+        "name": "Eurogamer.es",
+        "url": "https://www.eurogamer.es/microsoft-niega-los-rumores-que-apuntaban-a-una-exclusividad-en-el-streaming-en-la-nube-de-gta-6"
+      }
+    }
+  ],
+  "releases": [
+    {
+      "title": "Dragon's Dogma 2: Dark Arisen",
+      "platforms": "PS5 · Xbox Series · PC · Switch 2",
+      "note": {
+        "es": "Expansión, esta semana",
+        "en": "Expansion, this week"
+      },
+      "url": "https://www.nintendolife.com/news/2026/10/round-up-the-reviews-for-dragons-dogma-2-dark-arisen-are-in"
+    },
+    {
+      "title": "Kingdom Hearts Collection [I–III]",
+      "platforms": "Switch 2 · Xbox",
+      "note": {
+        "es": "Ya disponible",
+        "en": "Out now"
+      },
+      "url": "https://vandal.elespanol.com/noticia/2026281031/kingdom-hearts-collection-ya-esta-por-fin-disponible-y-square-enix-lo-celebra-con-su-trailer-de-lanzamiento/"
+    },
+    {
+      "title": "Clive Barker's Hellraiser: Revival",
+      "platforms": "PS5 · Xbox Series · PC",
+      "note": {
+        "es": "Ya disponible, críticas divididas",
+        "en": "Out now, reviews are split"
+      },
+      "url": "https://www.purexbox.com/news/2026/10/clive-barkers-hellraiser-revival-is-getting-some-seriously-divided-reviews-at-launch"
+    },
+    {
+      "title": "Risk of Rain 2: Hallowed Concepts",
+      "platforms": "PC · PS5 · PS4",
+      "note": {
+        "es": "DLC, ya disponible",
+        "en": "DLC, out now"
+      },
+      "url": "https://www.gematsu.com/2026/10/risk-of-rain-2-dlc-hallowed-concepts-now-available"
+    },
+    {
+      "title": "Battlefield 6",
+      "platforms": "Xbox Game Pass",
+      "note": {
+        "es": "13 de octubre",
+        "en": "October 13"
+      },
+      "url": "https://news.xbox.com/en-us/2026/10/07/xbox-game-pass-october-2026-wave-1/"
+    },
+    {
+      "title": "Minecraft",
+      "platforms": "Switch 2",
+      "note": {
+        "es": "27 de octubre",
+        "en": "October 27"
+      },
+      "url": "https://www.nintendolife.com/news/2026/10/minecraft-switch-2-pre-orders-now-live-free-digital-upgrade-path-confirmed-as-limited-time-offer"
+    }
+  ],
+  "social": [
+    {
+      "text": {
+        "es": "El modo DMZ de Call of Duty: Modern Warfare 4 enfada a la comunidad: sus opciones de despliegue más caras dan una gran ventaja frente a quien empieza a pie, y muchos jugadores lo consideran injusto.",
+        "en": "Call of Duty: Modern Warfare 4's DMZ mode is angering the community: its pricey spawn options give a big edge over players starting on foot, and many are calling it unfair."
+      },
+      "source": {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-dmz-paid-infil-spawn-options"
+      }
+    },
+    {
+      "text": {
+        "es": "El lote de Hollow Knight en Fortnite cuesta 22,99 € sin paVos, más que los dos juegos de Team Cherry juntos, y las redes no lo han pasado por alto.",
+        "en": "Fortnite's Hollow Knight bundle costs €22.99 without V-Bucks — more than both Team Cherry games combined — and social media has noticed."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026281028/cuesta-mas-que-silksong-el-precio-del-lote-de-hollow-knight-en-fortnite-sorprende-a-los-jugadores/"
+      }
+    },
+    {
+      "text": {
+        "es": "En r/xbox, Gears of War: E-Day se lleva los elogios del día: varios de los hilos más votados lo califican de regreso a lo grande.",
+        "en": "On r/xbox, Gears of War: E-Day is taking the day's praise, with several of the top-voted threads hailing it as a big return to form."
+      },
+      "source": {
+        "name": "r/xbox",
+        "url": "https://www.reddit.com/r/xbox/comments/1x0feit/gears_of_war_eday_is_amazing/"
+      }
+    },
+    {
+      "text": {
+        "es": "Battlefield 6 cumple un año y sus recompensas de aniversario no convencen: parte de la comunidad las compara, a peor, con las de los free-to-play.",
+        "en": "Battlefield 6 turns one and its anniversary rewards aren't landing: part of the community compares them unfavourably to free-to-play games."
+      },
+      "source": {
+        "name": "3DJuegos",
+        "url": "https://www.3djuegos.com/juegos/battlefield-6/noticias/juegos-gratis-codiciosos-tienen-mejores-aniversarios-no-hay-muchos-fans-contentos-ahora-cumpleanos-battlefield-6"
+      }
+    }
+  ],
+  "steam": [
+    {
+      "name": "Risk of Rain 2: Hallowed Concepts",
+      "url": "https://store.steampowered.com/app/3055670/"
+    },
+    {
+      "name": "Order of the Sinking Star",
+      "url": "https://store.steampowered.com/app/499170/"
+    },
+    {
+      "name": "EA SPORTS FC 27",
+      "url": "https://store.steampowered.com/app/4080220/"
+    },
+    {
+      "name": "ARC Raiders – Frozen Trail Collector Set",
+      "url": "https://store.steampowered.com/app/5201760/"
+    },
+    {
+      "name": "Clive Barker's Hellraiser: Revival",
+      "url": "https://store.steampowered.com/app/1551980/"
+    },
+    {
+      "name": "Dressmaker",
+      "url": "https://store.steampowered.com/app/4019220/"
+    },
+    {
+      "name": "Gears of War: E-Day",
+      "url": "https://store.steampowered.com/app/3010850/"
+    },
+    {
+      "name": "Dragon's Dogma 2: Dark Arisen",
+      "url": "https://store.steampowered.com/app/2593290/"
+    }
+  ]
+}
