@@ -10,6 +10,10 @@ on:
       edicion:
         description: Edición (AAAA-MM-DD) que anunciar en redes; vacío para no anunciar
         required: false
+      comprobar_redes:
+        description: Solo validar las credenciales de redes, sin publicar nada
+        type: boolean
+        default: false
 
 permissions:
   contents: read
@@ -65,7 +69,7 @@ jobs:
 
   redes:
     needs: web
-    if: needs.web.outputs.edicion != ''
+    if: needs.web.outputs.edicion != '' || inputs.comprobar_redes
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v5
@@ -73,8 +77,10 @@ jobs:
         with:
           node-version: 22
       - name: Publicar en redes
-        run: node scripts/social-post.mjs --date "$EDICION"
+        run: |
+          if [ "$COMPROBAR" = "true" ]; then node scripts/social-post.mjs --check; else node scripts/social-post.mjs --date "$EDICION"; fi
         env:
+          COMPROBAR: ${{ inputs.comprobar_redes }}
           EDICION: ${{ needs.web.outputs.edicion }}
           SITE_URL: ${{ needs.web.outputs.url }}
           BLUESKY_HANDLE: ${{ secrets.BLUESKY_HANDLE }}

@@ -1,6 +1,7 @@
 #!/usr/bin/env node
 // Publica la edición del día en las redes que tengan credenciales en variables de entorno.
 // Sin dependencias. Uso: node scripts/social-post.mjs [--dry-run] [--date AAAA-MM-DD]
+//                     node scripts/social-post.mjs --check   (valida las credenciales sin publicar nada)
 //
 //   Bluesky   BLUESKY_HANDLE, BLUESKY_APP_PASSWORD
 //   Mastodon  MASTODON_URL (https://instancia), MASTODON_TOKEN
@@ -17,6 +18,7 @@ import path from 'node:path';
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const args = process.argv.slice(2);
 const DRY = args.includes('--dry-run');
+const CHECK = args.includes('--check');
 const env = process.env;
 const lang = env.SOCIAL_LANG || 'es';
 const cfg = JSON.parse(await readFile(path.join(ROOT, 'site.config.json'), 'utf8'));
@@ -50,6 +52,7 @@ function compose(limit, urlWeight) {
   ];
 }
 
+const get = (url, headers = {}) => json(url, { headers });
 const json = async (url, init) => {
   const res = await fetch(url, { ...init, signal: AbortSignal.timeout(20000) });
   const body = await res.text();
@@ -61,6 +64,7 @@ const post = (url, body, headers = {}) => json(url, { method: 'POST', headers: {
 const NETWORKS = {
   bluesky: {
     ready: () => env.BLUESKY_HANDLE && env.BLUESKY_APP_PASSWORD, limit: 300,
+    async check() { this.session ??= await post('https://bsky.social/xrpc/com.atproto.server.createSession', { identifier: env.BLUESKY_HANDLE, password: env.BLUESKY_APP_PASSWORD }); return `@${this.session.handle}`; },
     async send(p) {
       this.session ??= await post('https://bsky.social/xrpc/com.atproto.server.createSession', { identifier: env.BLUESKY_HANDLE, password: env.BLUESKY_APP_PASSWORD });
       const at = p.text.indexOf(p.url);
@@ -77,14 +81,17 @@ const NETWORKS = {
   },
   mastodon: {
     ready: () => env.MASTODON_URL && env.MASTODON_TOKEN, limit: 500,
+    check: async () => `@${(await get(`${env.MASTODON_URL.replace(/\/$/, '')}/api/v1/accounts/verify_credentials`, { authorization: `Bearer ${env.MASTODON_TOKEN}` })).acct}`,
     send: (p) => post(`${env.MASTODON_URL.replace(/\/$/, '')}/api/v1/statuses`, { status: p.text, language: lang, visibility: 'public' }, { authorization: `Bearer ${env.MASTODON_TOKEN}` }),
   },
   telegram: {
     ready: () => env.TELEGRAM_BOT_TOKEN && env.TELEGRAM_CHAT, limit: 1000,
+    check: async () => (await get(`https://api.telegram.org/bot${env.TELEGRAM_BOT_TOKEN}/getChat?chat_id=${encodeURIComponent(env.TELEGRAM_CHAT)}`)).result.title,
     send: (p) => post(`https://api.telegram.org/bot${env.TELEGRAM_BOT_TOKEN}/sendMessage`, { chat_id: env.TELEGRAM_CHAT, text: p.text }),
   },
   discord: {
     ready: () => env.DISCORD_WEBHOOK, limit: 1000,
+    check: async () => (await get(env.DISCORD_WEBHOOK)).name,
     send: (p) => post(env.DISCORD_WEBHOOK, { content: p.text, allowed_mentions: { parse: [] } }),
   },
   x: {
@@ -103,6 +110,15 @@ const NETWORKS = {
 
 const active = Object.entries(NETWORKS).filter(([, n]) => DRY || n.ready());
 if (!active.length) { console.log('No hay credenciales de ninguna red: no se publica nada.'); process.exit(0); }
+
+if (CHECK) {
+  let bad = 0;
+  for (const [name, net] of active) {
+    if (!net.check) { console.log(`– ${name}: no se puede comprobar sin publicar`); continue; }
+    try { console.log(`✔ ${name}: credenciales válidas (${await net.check()})`); } catch (err) { bad++; console.error(`✖ ${name}: ${err.message.replace(/bot[^/]+\//, 'bot***/')}`); }
+  }
+  process.exit(bad ? 1 : 0);
+}
 if (/localhost|127\.0\.0\.1/.test(SITE) && !DRY) { console.error('SITE_URL apunta a localhost: no se publica en redes.'); process.exit(1); }
 
 let failed = 0;
