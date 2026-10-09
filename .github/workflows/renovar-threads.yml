@@ -1,0 +1,30 @@
+# El token de Threads caduca a los 60 días: dos veces al mes se pide uno nuevo y se guarda en los secrets.
+# Necesita el secret SECRETS_TOKEN: un token de GitHub limitado a este repositorio con permiso "Secrets: Read and write".
+name: Renovar token de Threads
+
+on:
+  schedule:
+    - cron: '0 4 1,15 * *'
+  workflow_dispatch:
+
+permissions: {}
+
+jobs:
+  renovar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Renovar y guardar
+        env:
+          THREADS_TOKEN: ${{ secrets.THREADS_TOKEN }}
+          GH_TOKEN: ${{ secrets.SECRETS_TOKEN }}
+        run: |
+          if [ -z "$THREADS_TOKEN" ] || [ -z "$GH_TOKEN" ]; then
+            echo "::notice::Falta THREADS_TOKEN o SECRETS_TOKEN: no se renueva nada."
+            exit 0
+          fi
+          resp=$(curl -fsS "https://graph.threads.net/refresh_access_token?grant_type=th_refresh_token&access_token=${THREADS_TOKEN}")
+          nuevo=$(printf '%s' "$resp" | jq -r '.access_token // empty')
+          if [ -z "$nuevo" ]; then echo "::error::Threads no devolvió un token nuevo."; exit 1; fi
+          echo "::add-mask::$nuevo"
+          printf '%s' "$nuevo" | gh secret set THREADS_TOKEN --repo "$GITHUB_REPOSITORY"
+          echo "Token de Threads renovado y guardado; válido $(printf '%s' "$resp" | jq -r '.expires_in / 86400 | floor') días."
