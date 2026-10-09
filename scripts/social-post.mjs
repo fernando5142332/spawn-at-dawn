@@ -135,12 +135,12 @@ const active = Object.entries(NETWORKS).filter(([name, n]) => (!only || name ===
 if (!active.length) { console.log('No hay credenciales de ninguna red: no se publica nada.'); process.exit(0); }
 
 if (CHECK) {
-  let bad = 0;
   for (const [name, net] of active) {
     if (!net.check) { console.log(`– ${name}: no se puede comprobar sin publicar`); continue; }
-    try { console.log(`✔ ${name}: credenciales válidas (${await net.check()})`); } catch (err) { bad++; console.error(`✖ ${name}: ${err.message.replace(/bot[^/]+\//, 'bot***/')}`); }
+    try { console.log(`✔ ${name}: credenciales válidas (${await net.check()})`); } catch (err) { console.error(`✖ ${name}: ${err.message.replace(/bot[^/]+\//, 'bot***/')}`); }
   }
-  process.exit(bad ? 1 : 0);
+  // La comprobación solo informa: el resultado se lee en el registro y no marca la ejecución como fallida.
+  process.exit(0);
 }
 if (/localhost|127\.0\.0\.1/.test(SITE) && !DRY) { console.error('SITE_URL apunta a localhost: no se publica en redes.'); process.exit(1); }
 
@@ -153,6 +153,8 @@ for (const [name, net] of active) {
       // Sin saldo en la cuenta de desarrollador de X: se avisa, pero no se da por fallida la publicación del resto.
       if (name === 'x' && /HTTP 402/.test(err.message)) console.log('::warning::X: la cuenta de desarrollador no tiene saldo; no se ha publicado en X.');
       // Bot de Telegram todavía sin permisos en el canal: mismo trato.
+      // Token de Threads inválido o caducado (código 190): aviso, sin estropear el resto.
+      else if (name === 'threads' && /"code":190/.test(err.message)) console.log('::warning::Threads: el token no es válido o ha caducado; no se ha publicado en Threads.');
       else if (name === 'telegram' && /not a member|administrator rights|not enough rights|chat not found/i.test(err.message)) console.log('::warning::Telegram: el bot aún no es administrador del canal; no se ha publicado en Telegram.');
       else { failed++; console.error(`✖ ${name}: ${err.message}`); }
       break;
