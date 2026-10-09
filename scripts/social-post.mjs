@@ -131,7 +131,8 @@ const NETWORKS = {
 };
 
 const only = args.includes('--only') ? args[args.indexOf('--only') + 1] : '';
-const active = Object.entries(NETWORKS).filter(([name, n]) => (!only || name === only) && (DRY || n.ready()));
+// Una red puede dejarse en pausa con "autopost": { "x": false } en site.config.json, sin borrar sus claves.
+const active = Object.entries(NETWORKS).filter(([name, n]) => (!only || name === only) && cfg.autopost?.[name] !== false && (DRY || n.ready()));
 if (!active.length) { console.log('No hay credenciales de ninguna red: no se publica nada.'); process.exit(0); }
 
 if (CHECK) {

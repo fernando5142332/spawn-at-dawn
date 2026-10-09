@@ -23,6 +23,9 @@
     "youtube": "",
     "discord": ""
   },
+  "autopost": {
+    "x": false
+  },
   "monetization": {
     "adsenseClient": "",
     "slots": {
