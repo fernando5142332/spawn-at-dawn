@@ -1,0 +1,656 @@
+{
+  "date": "2026-10-09",
+  "headline": {
+    "es": "Phantom Blade Zero conquista a la crítica y Microsoft choca con Washington por los visados",
+    "en": "Phantom Blade Zero wins over critics as Microsoft clashes with Washington over visas"
+  },
+  "intro": {
+    "es": "Los primeros avances de Phantom Blade Zero son muy positivos, ARC Raiders vuelve a llenarse, Minecraft abre reservas en Switch 2 y EE. UU. suspende a Microsoft los visados H-1B. Todo lo importante del día, resumido y con sus fuentes.",
+    "en": "Early Phantom Blade Zero previews are glowing, ARC Raiders fills up again, Minecraft opens Switch 2 pre-orders and the US suspends Microsoft's H-1B visa filings. The day's essentials, summarised and sourced."
+  },
+  "stories": [
+    {
+      "id": "phantom-blade-zero-avances-29-octubre",
+      "category": "juegos",
+      "title": {
+        "es": "Phantom Blade Zero llega el 29 de octubre y los primeros avances lo ponen por las nubes",
+        "en": "Phantom Blade Zero arrives October 29 and early previews are glowing"
+      },
+      "dek": {
+        "es": "Varios medios han jugado entre seis y diez horas del action RPG de S-GAME: elogian el combate y los jefes, y avisan de que es exigente.",
+        "en": "Several outlets have played six to ten hours of S-GAME's action RPG: they praise the combat and bosses, and warn it is demanding."
+      },
+      "body": {
+        "es": [
+          "Push Square y Insider Gaming sitúan el lanzamiento de Phantom Blade Zero el 29 de octubre. Push Square jugó unas seis horas de una versión casi final y destaca un combate seguro de sí mismo: los ataques básicos no gastan aguante, pero bloquear, esquivar y los golpes especiales sí, y cada defensa bien hecha carga un ataque potente.",
+          "Insider Gaming, que pasó cerca de diez horas con el juego, subraya la variedad de armas (unas 30 previstas) y de jefes, y la ambientación inspirada en el wuxia. Los enemigos no reaparecen y las primeras zonas son bastante lineales; el medio matiza que, pese al foco en el combate, no es un soulslike.",
+          "Entre las pegas, Insider Gaming menciona tirones de rendimiento en la versión de prueba que provocaron parrys fallidos, algo que espera que se corrija antes del estreno, y una dificultad alta incluso en el nivel estándar. IGN también ha publicado su avance."
+        ],
+        "en": [
+          "Push Square and Insider Gaming both place Phantom Blade Zero's launch on October 29. Push Square played about six hours of a near-final build and highlights confident combat: basic attacks cost no stamina, but blocking, dodging and special strikes do, and every well-timed defence charges a powerful attack.",
+          "Insider Gaming, which spent close to ten hours with the game, stresses the variety of weapons (about 30 planned) and bosses, plus the wuxia-inspired setting. Enemies do not respawn and early areas are fairly linear; the outlet adds that, despite the focus on combat, it is not a Soulslike.",
+          "On the downside, Insider Gaming mentions stuttering in the preview build that caused missed parries, which it expects to be fixed before launch, and a high difficulty even on the standard setting. IGN has also published its preview."
+        ]
+      },
+      "why": {
+        "es": "Con GTA 6 en el horizonte, octubre se está llenando de grandes estrenos, y los avances sitúan a este como uno de los más esperados.",
+        "en": "With GTA 6 on the horizon, October is filling up with big releases, and the previews place this one among the most anticipated."
+      },
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4115450/b2ebc232d3d88eafa8546f65b90d8dc8d2ece0b4/ss_b2ebc232d3d88eafa8546f65b90d8dc8d2ece0b4.1920x1080.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4115450/7f882f889630270d3d3fb93825ac6f55b55e7a6c/header.jpg",
+        "credit": "S-GAME Publishing / Steam",
+        "creditUrl": "https://store.steampowered.com/app/4115450/"
+      },
+      "sources": [
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/previews/phantom-blade-zero-is-the-next-truly-essential-ps5-game"
+        },
+        {
+          "name": "Insider Gaming",
+          "url": "https://insider-gaming.com/phantom-blade-zero-preview-this-might-be-my-game-of-the-year/"
+        },
+        {
+          "name": "IGN",
+          "url": "https://www.ign.com/articles/phantom-blade-zero-might-be-this-years-most-stylish-action-game-ign-preview"
+        }
+      ]
+    },
+    {
+      "id": "microsoft-visados-h1b-suspension-xbox",
+      "category": "industria",
+      "title": {
+        "es": "EE. UU. suspende a Microsoft la tramitación de visados H-1B, con posible impacto en Xbox",
+        "en": "US suspends Microsoft's ability to file H-1B visas, with possible impact on Xbox"
+      },
+      "dek": {
+        "es": "La administración Trump acusa a la compañía de sustituir a empleados estadounidenses; Microsoft dice que se basa en datos erróneos.",
+        "en": "The Trump administration accuses the company of replacing American workers; Microsoft says the move rests on incorrect information."
+      },
+      "body": {
+        "es": [
+          "Según Game Developer, el Gobierno de EE. UU. ha suspendido la capacidad de Microsoft para solicitar visados H-1B para trabajadores extranjeros, alegando sospechas de fraude. El vicepresidente J. D. Vance acusó a la empresa de despedir a unos 6.000 empleados estadounidenses y contratar a unos 6.100 trabajadores con H-1B. La medida afecta a todas las divisiones, Xbox incluida, aunque se desconoce qué parte de su plantilla tiene este tipo de visado.",
+          "Microsoft sostiene en un comunicado que la suspensión parte de información incorrecta. Afirma que alrededor del 80 % de sus cerca de 6.000 solicitudes del último año fiscal eran renovaciones o cambios de estatus de empleados ya existentes, y que el resto correspondía a personas que ya estaban legalmente en el país. PC Gamer, que titula con ironía por la medalla que recibió Satya Nadella, enmarca el episodio como otro giro contradictorio de la administración. Las fuentes difieren en cómo llaman al permiso afectado (H-1B o \"green cards\"); aquí seguimos la descripción de Game Developer."
+        ],
+        "en": [
+          "According to Game Developer, the US government has suspended Microsoft's ability to apply for H-1B visas for foreign workers, citing suspected fraud. Vice President J.D. Vance accused the company of laying off about 6,000 American workers and bringing in about 6,100 H-1B workers. The measure covers every division, Xbox included, though it is unclear what share of Xbox staff hold such visas.",
+          "Microsoft says in a statement that the suspension rests on incorrect information. It says roughly 80% of its nearly 6,000 filings last fiscal year were extensions or status changes for existing employees, and that the rest were for people already legally in the country. PC Gamer, whose headline points to the medal Satya Nadella received, frames the episode as another incoherent turn by the administration. The sources differ on what to call the affected permit (H-1B or \"green cards\"); we follow Game Developer's description."
+        ]
+      },
+      "why": {
+        "es": "Microsoft es uno de los mayores solicitantes de H-1B del país, así que la medida podría complicar la contratación en toda la compañía, también en Xbox.",
+        "en": "Microsoft is one of the largest H-1B filers in the US, so the measure could complicate hiring across the company, Xbox included."
+      },
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Building92microsoft.jpg/1280px-Building92microsoft.jpg",
+        "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Building92microsoft.jpg/960px-Building92microsoft.jpg",
+        "credit": "Coolcaesar / Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Building92microsoft.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      },
+      "sources": [
+        {
+          "name": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/trump-administration-suspends-microsoft-s-ability-to-apply-for-green-cards-alleging-fraud"
+        },
+        {
+          "name": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/us-government-accuses-microsoft-of-replacing-american-workers-with-foreign-indentured-servants-then-gives-satya-nadella-a-medal/"
+        }
+      ]
+    },
+    {
+      "id": "arc-raiders-frozen-trail-pico-jugadores",
+      "category": "pc",
+      "title": {
+        "es": "ARC Raiders vuelve a lo más alto de Steam con la actualización Frozen Trail",
+        "en": "ARC Raiders surges back up Steam's charts with the Frozen Trail update"
+      },
+      "dek": {
+        "es": "La actualización de su primer aniversario dispara el recuento de jugadores hasta su mejor cifra desde abril.",
+        "en": "Its first-anniversary update lifts the player count to its best figure since April."
+      },
+      "body": {
+        "es": [
+          "Insider Gaming informa de que Frozen Trail, la actualización del primer aniversario de ARC Raiders, ha llevado al shooter de extracción a un pico de 131.388 jugadores simultáneos en Steam en 24 horas, la cifra más alta desde la actualización Riven Tides, en abril de 2026.",
+          "El medio la describe como la mayor actualización del juego, con un mapa nuevo, un gran conjunto de armas y enemigos ARC y cambios en la mecánica de juego. GameSpot añade que el título ha vuelto a los primeros puestos de Steam tanto en ventas como en jugadores activos, y que el estudio, Embark, ya había avisado de que la actualización tardaría varios meses en llegar."
+        ],
+        "en": [
+          "Insider Gaming reports that Frozen Trail, ARC Raiders' first-anniversary update, has pushed the extraction shooter to a 24-hour Steam peak of 131,388 concurrent players, its highest since the Riven Tides update in April 2026.",
+          "The outlet calls it the game's largest update, with a new map, a big set of new weapons and ARC enemies, and revised gameplay mechanics. GameSpot adds that the game is back near the top of Steam in both best sellers and most played, and that developer Embark had warned the update would take several months to arrive."
+        ]
+      },
+      "why": {
+        "es": "Un año después de su estreno, la actualización demuestra que los juegos de servicio pueden recuperar público con contenido grande y bien dosificado.",
+        "en": "A year after launch, the update shows live-service games can win players back with large, well-paced content drops."
+      },
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808500/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808500/capsule_616x353.jpg",
+        "credit": "Embark Studios / Steam",
+        "creditUrl": "https://store.steampowered.com/app/1808500/"
+      },
+      "sources": [
+        {
+          "name": "Insider Gaming",
+          "url": "https://insider-gaming.com/arc-raiders-player-count-hits-six-month-high-soars/"
+        },
+        {
+          "name": "GameSpot",
+          "url": "https://www.gamespot.com/articles/arc-raiders-big-update-has-it-surging-to-numbers-it-hasnt-seen-in-months/"
+        },
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/juegos/arc-raiders/noticias/sabiamos-que-ibamos-a-perder-jugadores-creadores-arc-raiders-se-jugaron-cambio-crucial-ha-llegado-momento-descubrir-acertaron"
+        }
+      ]
+    },
+    {
+      "id": "minecraft-switch-2-27-octubre-reservas-mejora-gratis",
+      "category": "nintendo",
+      "title": {
+        "es": "Minecraft para Switch 2 abre reservas: mejora gratuita solo para quien lo compró en digital",
+        "en": "Minecraft for Switch 2 opens pre-orders: free upgrade only for digital owners"
+      },
+      "dek": {
+        "es": "Llega el 27 de octubre; la mejora gratis estará disponible hasta finales de enero de 2027 y solo desde la eShop.",
+        "en": "It launches October 27; the free upgrade runs until the end of January 2027 and only via the eShop."
+      },
+      "body": {
+        "es": [
+          "Mojang ha abierto las reservas de Minecraft para Switch 2, que saldrá el 27 de octubre de 2026. Quien tenga la edición digital de Switch podrá pasar sin coste a la Standard Edition de Switch 2 hasta finales de enero de 2027, y solo a través de la eShop. Nintendo Life precisa que la oferta excluye Japón y Taiwán.",
+          "Para quienes no cumplan los requisitos, la versión cuesta 29,99 dólares, según Nintendo Life, y llega con la mejora gráfica Vibrant Visuals y el pack Super Mario Mash-Up. También habrá mejoras con descuento a las ediciones Deluxe y Ultimate Collection. La versión física de Switch 2 será una Game-Key Card y, por ahora, no se ha anunciado ninguna vía de mejora para quienes tengan el cartucho de Switch."
+        ],
+        "en": [
+          "Mojang has opened pre-orders for Minecraft on Switch 2, which launches October 27, 2026. Owners of the digital Switch edition can move to the Switch 2 Standard Edition at no cost until the end of January 2027, only through the eShop. Nintendo Life notes that the offer excludes Japan and Taiwan.",
+          "For those who do not qualify, the game costs $29.99, according to Nintendo Life, and includes the Vibrant Visuals graphics upgrade and the Super Mario Mash-Up pack. Discounted upgrades to the Deluxe and Ultimate Collection editions will also be available. The physical Switch 2 version is a Game-Key Card and, for now, no upgrade path has been announced for Switch cartridge owners."
+        ]
+      },
+      "why": {
+        "es": "La diferencia entre digital y físico vuelve a decidir quién se beneficia de las mejoras gratuitas en Switch 2.",
+        "en": "The split between digital and physical once again decides who gets free upgrades on Switch 2."
+      },
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Nintendo_Switch_2_in_Docking_Console.jpg/1280px-Nintendo_Switch_2_in_Docking_Console.jpg",
+        "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Nintendo_Switch_2_in_Docking_Console.jpg/960px-Nintendo_Switch_2_in_Docking_Console.jpg",
+        "credit": "Crisco 1492 / Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Nintendo_Switch_2_in_Docking_Console.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      },
+      "sources": [
+        {
+          "name": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/minecraft-switch-2-pre-orders-now-live-free-digital-upgrade-path-confirmed-as-limited-time-offer"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026281022/minecraft-tendra-actualizacion-gratis-para-switch-2-pero-solamente-para-aquellos-que-lo-compraron-en-digital/"
+        }
+      ]
+    },
+    {
+      "id": "ace-combat-8-un-millon-ventas",
+      "category": "juegos",
+      "title": {
+        "es": "Ace Combat 8: Wings of Theve supera el millón de unidades vendidas",
+        "en": "Ace Combat 8: Wings of Theve passes one million sales"
+      },
+      "dek": {
+        "es": "Según Gematsu, es la cifra más rápida de la saga; en Japón fue lo más vendido de su semana de estreno en físico.",
+        "en": "According to Gematsu it is the series' fastest start; in Japan it topped the physical charts in its launch week."
+      },
+      "body": {
+        "es": [
+          "Bandai Namco ha anunciado que Ace Combat 8: Wings of Theve ha superado el millón de unidades vendidas en todo el mundo, según Gematsu, que señala que ningún juego anterior de la saga había llegado a esa cifra tan rápido. El juego salió el 2 de octubre en PS5, Xbox Series y PC.",
+          "En Japón, el ranking de Famitsu para la semana del 28 de septiembre al 4 de octubre lo coloca primero en venta física, con 63.013 copias en PS5, por delante de Dynasty Warriors 3: Complete Edition Remastered (18.724)."
+        ],
+        "en": [
+          "Bandai Namco has announced that Ace Combat 8: Wings of Theve has passed one million units sold worldwide, according to Gematsu, which notes no earlier game in the series reached that mark as quickly. The game launched on October 2 on PS5, Xbox Series and PC.",
+          "In Japan, Famitsu's chart for the week of September 28 to October 4 puts it first in physical sales, with 63,013 PS5 copies, ahead of Dynasty Warriors 3: Complete Edition Remastered (18,724)."
+        ]
+      },
+      "why": {
+        "es": "El resultado devuelve a la saga de combate aéreo a la primera línea de ventas tras su estreno.",
+        "en": "The result puts the air-combat series back among the top sellers after years without a numbered entry."
+      },
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288340/4a99c9c55a7d7163370dc68a5a9008517a32e84a/ss_4a99c9c55a7d7163370dc68a5a9008517a32e84a.1920x1080.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288340/13dea8084135fd130605b78189c82e39bf944c35/header.jpg",
+        "credit": "Bandai Namco Entertainment Inc. / Steam",
+        "creditUrl": "https://store.steampowered.com/app/2288340/"
+      },
+      "sources": [
+        {
+          "name": "Gematsu",
+          "url": "https://www.gematsu.com/2026/10/ace-combat-8-wings-of-theve-sales-top-one-million"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026281023/ace-combat-8-confirma-el-buen-estado-de-la-saga-vuela-en-las-ventas-de-japon-dejando-atras-a-sus-competidores/"
+        }
+      ]
+    },
+    {
+      "id": "dave-the-diver-subnautica-2-dlc-gratis",
+      "category": "indie",
+      "title": {
+        "es": "Dave the Diver recibirá un último DLC gratuito con temática de Subnautica 2",
+        "en": "Dave the Diver gets a final free DLC themed on Subnautica 2"
+      },
+      "dek": {
+        "es": "Mintrocket lo lanzará a principios de 2027 en colaboración con Unknown Worlds.",
+        "en": "Mintrocket will release it in early 2027 in partnership with Unknown Worlds."
+      },
+      "body": {
+        "es": [
+          "Mintrocket ha anunciado el Subnautica 2 Content Pack, que según Gematsu será el último paquete de contenido descargable de Dave the Diver. Será gratuito y llegará a principios de 2027, sin fecha concreta por ahora.",
+          "En la expansión, Dave y Bancho viajan entre dimensiones a Proteus, un escenario con criaturas y recursos desconocidos, desbloquean nuevas recetas y se cruzan de vez en cuando con el Leviatán. PC Gamer destaca que por fin se podrá cazar y cocinar a los Nibbler Mangos del juego de Unknown Worlds."
+        ],
+        "en": [
+          "Mintrocket has announced the Subnautica 2 Content Pack, which Gematsu says will be Dave the Diver's final downloadable content pack. It will be free and arrives in early 2027, with no exact date yet.",
+          "In the expansion, Dave and Bancho travel between dimensions to Proteus, a setting with unfamiliar creatures and resources, unlock new recipes and run into the Leviathan from time to time. PC Gamer highlights that players will finally be able to hunt and cook the Nibbler Mangos from Unknown Worlds' game."
+        ]
+      },
+      "why": {
+        "es": "Los cruces entre indies se consolidan como una forma barata de dar vida larga a un juego y de promocionar a otro.",
+        "en": "Indie crossovers are becoming a cheap way to extend one game's life while promoting another."
+      },
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5246570/42e44e635b19de9da749f8654a0b2b6811fa24aa/ss_42e44e635b19de9da749f8654a0b2b6811fa24aa.1920x1080.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5246570/9ac3346a14beea22ce808283439dd388b72d3ed2/header.jpg",
+        "credit": "MINTROCKET / Steam",
+        "creditUrl": "https://store.steampowered.com/app/5246570/"
+      },
+      "sources": [
+        {
+          "name": "Gematsu",
+          "url": "https://www.gematsu.com/2026/10/dave-the-diver-dlc-subnautica-2-content-pack-announced"
+        },
+        {
+          "name": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/adventure/subnautica-2-fans-can-finally-hunt-and-kill-those-pesky-nibbler-mangos-in-dave-the-divers-crossover-dlc/"
+        }
+      ]
+    },
+    {
+      "id": "marvel-cosmic-invasion-siege-of-castle-doom-10-noviembre",
+      "category": "juegos",
+      "title": {
+        "es": "Marvel Cosmic Invasion suma a Doctor Doom y la Mujer Invisible el 10 de noviembre",
+        "en": "Marvel Cosmic Invasion adds Doctor Doom and Invisible Woman on November 10"
+      },
+      "dek": {
+        "es": "The Siege of Castle Doom, su segundo DLC de pago, incluye dos personajes jugables y un modo nuevo.",
+        "en": "The Siege of Castle Doom, its second paid DLC, includes two playable characters and a new mode."
+      },
+      "body": {
+        "es": [
+          "Dotemu y Tribute Games han fijado para el 10 de noviembre de 2026 el lanzamiento de The Siege of Castle Doom, el segundo DLC de pago del beat'em up Marvel Cosmic Invasion. Añade a Doctor Doom y la Mujer Invisible como personajes jugables, que podrán combinarse con el resto del plantel.",
+          "El paquete incluye también un modo nuevo cuyos detalles no se han desvelado. Push Square no indica el precio ni las plataformas concretas del DLC."
+        ],
+        "en": [
+          "Dotemu and Tribute Games have set November 10, 2026 for The Siege of Castle Doom, the second paid DLC for the beat-'em-up Marvel Cosmic Invasion. It adds Doctor Doom and Invisible Woman as playable characters, who can team up with the rest of the roster.",
+          "The pack also includes a new mode whose details have not been revealed. Push Square does not give the price or the exact platforms for the DLC."
+        ]
+      },
+      "why": {
+        "es": "El DLC amplía el plantel jugable del juego con dos nuevos personajes y un modo adicional.",
+        "en": "The DLC widens the game's playable roster with two new characters and an extra mode."
+      },
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5032670/e0adf79d4bee58c06323896eb22a651f41217160/ss_e0adf79d4bee58c06323896eb22a651f41217160.1920x1080.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5032670/c015c4ee7561287d015133dc8c0940aeae82bc6e/header.jpg",
+        "credit": "Dotemu, Gamirror Games / Steam",
+        "creditUrl": "https://store.steampowered.com/app/5032670/"
+      },
+      "sources": [
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/doctor-doom-invisible-woman-join-marvel-cosmic-invasion-in-dlc-pack-next-month"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026281025/marvel-cosmic-invasion-recibira-su-gran-dlc-de-pago-el-10-de-noviembre-con-el-doctor-muerte-como-protagonista/"
+        }
+      ]
+    },
+    {
+      "id": "runescape-reignited-jagex-disculpas",
+      "category": "pc",
+      "title": {
+        "es": "Jagex pide perdón y reevalúa RuneScape: Reignited cinco días después de anunciarlo",
+        "en": "Jagex apologises and reassesses RuneScape: Reignited five days after announcing it"
+      },
+      "dek": {
+        "es": "Tras las críticas de la comunidad, la editora dice que ninguna opción está descartada.",
+        "en": "After community criticism, the publisher says no option is off the table."
+      },
+      "body": {
+        "es": [
+          "Según 3DJuegos, Jagex ha publicado una carta abierta, \"Reignited: where we go from here\", en la que admite que los jugadores actuales sienten que ya no son su prioridad y asume la responsabilidad. Reignited, anunciado en el RuneFest 2026, es un modo paralelo de RuneScape en el que se empieza de cero en un mundo nuevo, con economía propia y clasificaciones separadas.",
+          "La comunidad temía que dividiera a los jugadores, exigiera una cuenta adicional y dejara fuera objetos y cosméticos. Jagex no lo ha cancelado, pero dice que lo reevaluará con el objetivo de proteger el progreso de los veteranos. Días antes ya se había disculpado por usar IA generativa en un tráiler del evento."
+        ],
+        "en": [
+          "According to 3DJuegos, Jagex has published an open letter, \"Reignited: where we go from here\", admitting that current players feel they are no longer its priority and taking responsibility. Reignited, announced at RuneFest 2026, is a parallel RuneScape mode where you start from scratch in a new world, with its own economy and separate leaderboards.",
+          "The community feared it would split the player base, require an extra account and leave some items and cosmetics behind. Jagex has not cancelled it, but says it will reassess it with the aim of protecting veterans' progress. Days earlier it had already apologised for using generative AI in a trailer from the event."
+        ]
+      },
+      "why": {
+        "es": "Es otro ejemplo de cómo las comunidades veteranas pueden hacer retroceder a una editora en cuestión de días.",
+        "en": "It is another example of veteran communities making a publisher back down within days."
+      },
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1343400/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1343400/capsule_616x353.jpg",
+        "credit": "Jagex Ltd / Steam",
+        "creditUrl": "https://store.steampowered.com/app/1343400/"
+      },
+      "sources": [
+        {
+          "name": "Critical Hits",
+          "url": "https://criticalhits.com.br/games/desenvolvedora-de-runescape-volta-atras-em-plano-para-dividir-base-de-jogadores-em-runescape-reignited/"
+        },
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/juegos/runescape/noticias/5-dias-despues-anunciar-su-nuevo-rpg-autores-runescape-dan-marcha-atras-correcto-empezar-pidiendo-disculpas"
+        }
+      ]
+    },
+    {
+      "id": "zelda-ocarina-of-time-switch-2-lanzamiento-medianoche",
+      "category": "nintendo",
+      "title": {
+        "es": "Ocarina of Time en Switch 2 tendrá lanzamiento de medianoche el 5 de noviembre en Best Buy",
+        "en": "Ocarina of Time on Switch 2 gets a midnight launch at Best Buy on November 5"
+      },
+      "dek": {
+        "es": "La cadena pondrá a la venta unidades limitadas de la Switch 2 y el mando Pro de Zelda, agotados en muchas tiendas.",
+        "en": "The retailer will sell limited units of the Zelda Switch 2 and Pro Controller, which have sold out in many stores."
+      },
+      "body": {
+        "es": [
+          "Best Buy abrirá varias tiendas de EE. UU. a medianoche (hora del Este) del jueves 5 de noviembre para el lanzamiento de The Legend of Zelda: Ocarina of Time en Switch 2, algo poco habitual en la era digital. Según Nintendo Life, ofrecerá unidades limitadas de la consola y el mando Pro del 40.º aniversario de Zelda en tiendas seleccionadas, sin garantía de que todos los que acudan consigan una.",
+          "Kotaku recuerda que las reservas de la consola y el mando ya se habían agotado en Best Buy y Target, y que en Walmart aún parecía posible añadir una consola al carrito. Nintendo Australia, por su parte, ha anunciado un envío limitado del mando Pro de Zelda para reserva en su tienda, sin fecha."
+        ],
+        "en": [
+          "Best Buy will open select US stores at midnight ET on Thursday, November 5 for the launch of The Legend of Zelda: Ocarina of Time on Switch 2, a rarity in the digital era. According to Nintendo Life, it will offer limited units of the Zelda 40th-anniversary console and Pro Controller at select stores, with no guarantee that everyone who shows up will get one.",
+          "Kotaku notes that pre-orders for the console and controller had already sold out at Best Buy and Target, and that Walmart still appeared to let shoppers add a console to the cart. Nintendo Australia, meanwhile, has announced a limited shipment of the Zelda Pro Controller for pre-purchase in its store, with no date."
+        ]
+      },
+      "why": {
+        "es": "La escasez de la edición de Zelda convierte el lanzamiento de un clásico en un evento de coleccionismo.",
+        "en": "The scarcity of the Zelda edition turns the launch of a classic into a collectors' event."
+      },
+      "sources": [
+        {
+          "name": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/best-buy-to-offer-additional-switch-2-zelda-units-in-store-at-midnight-launch"
+        },
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/youll-have-one-last-shot-at-the-zelda-ocarina-of-time-switch-2-that-keeps-selling-out-everywhere-during-a-midnight-launch-2000742663"
+        },
+        {
+          "name": "GameSpot",
+          "url": "https://www.gamespot.com/articles/best-buy-wants-to-travel-back-to-1998-with-zelda-ocarina-of-time-midnight-launch/"
+        }
+      ]
+    },
+    {
+      "id": "denuvo-citacion-discord-valve-reddit-voices38",
+      "category": "industria",
+      "title": {
+        "es": "Denuvo pide citar a Discord, Valve y Reddit para identificar a un hacker",
+        "en": "Denuvo seeks to subpoena Discord, Valve and Reddit to identify a hacker"
+      },
+      "dek": {
+        "es": "La demanda apunta al usuario \"voices38\", al que acusa de saltarse la protección en 26 juegos.",
+        "en": "The lawsuit targets user \"voices38\", accused of bypassing the protection in 26 games."
+      },
+      "body": {
+        "es": [
+          "Según Game Developer, Denuvo ha pedido a un tribunal federal del distrito norte de California permiso para enviar requerimientos a Discord, Valve y Reddit con el fin de identificar al hacker conocido como \"voices38\". En septiembre, la compañía lo demandó bajo las cláusulas anticircunvención de la DMCA, alegando que burló su protección en 26 juegos.",
+          "Denuvo solo conoce el nombre de usuario y no sabe si es una persona o un grupo. A fecha del 8 de octubre, la petición está pendiente y un juez debe decidir si sigue adelante."
+        ],
+        "en": [
+          "According to Game Developer, Denuvo has asked a federal court in the Northern District of California for permission to send subpoenas to Discord, Valve and Reddit in order to identify the hacker known as \"voices38\". In September, the company sued under the DMCA's anti-circumvention provisions, alleging the hacker bypassed its protection on 26 games.",
+          "Denuvo only knows the username and does not know whether it is one person or a group. As of October 8, the request is pending and a judge must decide whether it can proceed."
+        ]
+      },
+      "why": {
+        "es": "El caso muestra hasta dónde llega la industria para frenar las grietas que, durante el último año, han ido cayendo una tras otra.",
+        "en": "The case shows how far the industry will go to stem the cracks that have kept landing over the past year."
+      },
+      "sources": [
+        {
+          "name": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/denuvo-attempts-to-subpoena-discord-valve-and-reddit-in-effort-to-identify-hacker"
+        },
+        {
+          "name": "TorrentFreak",
+          "url": "https://torrentfreak.com/denuvo-asks-court-to-unmask-game-cracker-voices38-reveals-crypto-transactions/"
+        },
+        {
+          "name": "LevelUp",
+          "url": "https://www.levelup.com/noticias/denuvo-demanda-al-grupo-de-hackers-voices38-y-pide-el-apoyo-de-steam-discord-y-reddit-pues-no-tiene-forma-de-localizarlos/"
+        }
+      ]
+    }
+  ],
+  "briefs": [
+    {
+      "text": {
+        "es": "El anime de Ghost of Tsushima: Legends se retrasa de 2027 a 2028; saldrá en Crunchyroll, según Gematsu.",
+        "en": "The Ghost of Tsushima: Legends anime slips from 2027 to 2028; it will stream on Crunchyroll, according to Gematsu."
+      },
+      "source": {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/10/ghost-of-tsushima-legends-anime-delayed-to-2028"
+      }
+    },
+    {
+      "text": {
+        "es": "Monster Hunter Stories 3: Twisted Reflection llegará a Xbox en PC el 18 de noviembre con Xbox Play Anywhere.",
+        "en": "Monster Hunter Stories 3: Twisted Reflection heads to Xbox on PC on November 18 with Xbox Play Anywhere support."
+      },
+      "source": {
+        "name": "Xbox Wire",
+        "url": "https://news.xbox.com/en-us/2026/10/07/monster-hunter-stories-3-xbox-px-xbox-play-anywhere-announce/"
+      }
+    },
+    {
+      "text": {
+        "es": "Gravity Well, estudio fundado por exmiembros de Respawn, despide a casi toda su plantilla tras quedarse sin financiación.",
+        "en": "Gravity Well, a studio founded by Respawn alumni, lays off almost its entire staff after running out of funding."
+      },
+      "source": {
+        "name": "Eurogamer.es",
+        "url": "https://www.eurogamer.es/gravity-well-estudio-fundado-por-exrespawn-despide-a-casi-toda-su-plantilla-tras-quedarse-sin-financiacion"
+      }
+    },
+    {
+      "text": {
+        "es": "Rockstar presenta una colección oficial de merchandising de GTA 6 de cara a su lanzamiento en noviembre, con una camiseta de Macca the Gator.",
+        "en": "Rockstar unveils an official GTA 6 merchandise collection ahead of its November release, including a Macca the Gator t-shirt."
+      },
+      "source": {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/gta-6-merch-revealed-including-t-shirt-with-alligator-wearing-sunglasses-and-drinking-a-cocktail/"
+      }
+    },
+    {
+      "text": {
+        "es": "Mafia III: Definitive Edition ya tiene versión nativa a 60 fps en PS5, gratuita para quien ya tenga el juego.",
+        "en": "Mafia III: Definitive Edition now has a native 60fps PS5 version, free for existing owners."
+      },
+      "source": {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/10/mafia-3-definitive-editions-native-60fps-ps5-upgrade-is-out-now-free-for-existing-owners"
+      }
+    },
+    {
+      "text": {
+        "es": "Hell Is Us amplía su lista de enemigos para celebrar los 2 millones de jugadores.",
+        "en": "Hell Is Us expands its roster of enemies to celebrate 2 million players."
+      },
+      "source": {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/10/hell-is-us-massively-expands-its-roster-of-freaky-enemies-to-celebrate-2-million-players"
+      }
+    },
+    {
+      "text": {
+        "es": "Critical Role se une a Rockbeasts, que llegará en enero de 2027.",
+        "en": "Critical Role joins Rockbeasts, launching January 2027."
+      },
+      "source": {
+        "name": "PlayStation Blog",
+        "url": "https://blog.playstation.com/2026/10/08/critical-role-joins-rockbeasts-launching-january-2027/"
+      }
+    },
+    {
+      "text": {
+        "es": "El gasto en tarjetas Game-Key de Switch 2 en EE. UU. ha subido un 631 %, según los datos publicados esta semana.",
+        "en": "Spending on Switch 2 Game-Key Cards in the US has risen by 631%, according to data published this week."
+      },
+      "source": {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/10/spending-on-switch-2-game-key-cards-in-the-u-s-has-risen-by-631percent"
+      }
+    },
+    {
+      "text": {
+        "es": "La película de BioShock de Netflix está \"bastante cerca\" de tener guion, según Insider Gaming.",
+        "en": "Netflix's BioShock movie is \"pretty close\" to a script, according to Insider Gaming."
+      },
+      "source": {
+        "name": "Insider Gaming",
+        "url": "https://insider-gaming.com/netflix-bioshock-movie-script-update/"
+      }
+    }
+  ],
+  "releases": [
+    {
+      "title": "Minecraft (Switch 2)",
+      "platforms": "Switch 2",
+      "note": {
+        "es": "27 de octubre",
+        "en": "October 27"
+      },
+      "url": "https://www.nintendolife.com/news/2026/10/minecraft-switch-2-pre-orders-now-live-free-digital-upgrade-path-confirmed-as-limited-time-offer"
+    },
+    {
+      "title": "Sulfur",
+      "platforms": "PC · consolas",
+      "note": {
+        "es": "28 de octubre",
+        "en": "October 28"
+      },
+      "url": "https://www.gematsu.com/2026/10/sulfur-launches-october-28"
+    },
+    {
+      "title": "Phantom Blade Zero",
+      "platforms": "PS5 · PC",
+      "note": {
+        "es": "29 de octubre",
+        "en": "October 29"
+      },
+      "url": "https://www.pushsquare.com/previews/phantom-blade-zero-is-the-next-truly-essential-ps5-game"
+    },
+    {
+      "title": "The Legend of Zelda: Ocarina of Time",
+      "platforms": "Switch 2",
+      "note": {
+        "es": "5 de noviembre",
+        "en": "November 5"
+      },
+      "url": "https://kotaku.com/youll-have-one-last-shot-at-the-zelda-ocarina-of-time-switch-2-that-keeps-selling-out-everywhere-during-a-midnight-launch-2000742663"
+    },
+    {
+      "title": "Marvel Cosmic Invasion: The Siege of Castle Doom",
+      "platforms": "DLC",
+      "note": {
+        "es": "10 de noviembre",
+        "en": "November 10"
+      },
+      "url": "https://www.pushsquare.com/news/2026/10/doctor-doom-invisible-woman-join-marvel-cosmic-invasion-in-dlc-pack-next-month"
+    },
+    {
+      "title": "Monster Hunter Stories 3: Twisted Reflection",
+      "platforms": "Xbox en PC",
+      "note": {
+        "es": "18 de noviembre",
+        "en": "November 18"
+      },
+      "url": "https://news.xbox.com/en-us/2026/10/07/monster-hunter-stories-3-xbox-px-xbox-play-anywhere-announce/"
+    },
+    {
+      "title": "Waltz and Jam",
+      "platforms": "PS5 · Switch 2 · PC",
+      "note": {
+        "es": "3 de diciembre",
+        "en": "December 3"
+      },
+      "url": "https://www.gematsu.com/2026/10/waltz-and-jam-launches-december-3-for-ps5-switch-2-and-pc"
+    }
+  ],
+  "social": [
+    {
+      "text": {
+        "es": "La Switch 2 de Zelda por el 40 aniversario se agota una y otra vez, y los jugadores buscan unidades antes del lanzamiento de Ocarina of Time.",
+        "en": "The Zelda 40th-anniversary Switch 2 keeps selling out, and fans are hunting for units ahead of Ocarina of Time's launch."
+      },
+      "source": {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/youll-have-one-last-shot-at-the-zelda-ocarina-of-time-switch-2-that-keeps-selling-out-everywhere-during-a-midnight-launch-2000742663"
+      }
+    },
+    {
+      "text": {
+        "es": "Los fans de Battlefield 6 no están contentos con cómo se celebra su primer cumpleaños, según 3DJuegos.",
+        "en": "Battlefield 6 fans are unhappy with how its first birthday is being celebrated, according to 3DJuegos."
+      },
+      "source": {
+        "name": "3DJuegos",
+        "url": "https://www.3djuegos.com/juegos/battlefield-6/noticias/juegos-gratis-codiciosos-tienen-mejores-aniversarios-no-hay-muchos-fans-contentos-ahora-cumpleanos-battlefield-6"
+      }
+    }
+  ],
+  "steam": [
+    {
+      "name": "Risk of Rain 2: Hallowed Concepts",
+      "url": "https://store.steampowered.com/app/3055670/"
+    },
+    {
+      "name": "Order of the Sinking Star",
+      "url": "https://store.steampowered.com/app/499170/"
+    },
+    {
+      "name": "ARC Raiders – Frozen Trail Collector Set",
+      "url": "https://store.steampowered.com/app/5201760/"
+    },
+    {
+      "name": "Clive Barker's Hellraiser: Revival",
+      "url": "https://store.steampowered.com/app/1551980/"
+    },
+    {
+      "name": "Dragon's Dogma 2: Dark Arisen",
+      "url": "https://store.steampowered.com/app/2593290/"
+    },
+    {
+      "name": "EA SPORTS FC 27",
+      "url": "https://store.steampowered.com/app/4080220/"
+    },
+    {
+      "name": "Steam Machine",
+      "url": "https://store.steampowered.com/app/4165910/"
+    },
+    {
+      "name": "Dressmaker",
+      "url": "https://store.steampowered.com/app/4019220/"
+    }
+  ]
+}
