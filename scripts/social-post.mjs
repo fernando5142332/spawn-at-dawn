@@ -106,7 +106,18 @@ const NETWORKS = {
   },
   threads: {
     ready: () => env.THREADS_TOKEN, limit: 500,
-    check: async () => `@${(await get(`https://graph.threads.net/v1.0/me?fields=username&access_token=${encodeURIComponent(env.THREADS_TOKEN)}`)).username}`,
+    // Además de validar el token, intenta renovarlo e informa de si Threads devuelve el mismo u otro distinto
+    // (nunca se imprime el token). Solo se puede renovar un token con más de 24 horas.
+    async check() {
+      const t = encodeURIComponent(env.THREADS_TOKEN);
+      const user = (await get(`https://graph.threads.net/v1.0/me?fields=username&access_token=${t}`)).username;
+      let renew;
+      try {
+        const r = await get(`https://graph.threads.net/refresh_access_token?grant_type=th_refresh_token&access_token=${t}`);
+        renew = `renovación: ${r.access_token === env.THREADS_TOKEN ? 'devuelve el MISMO token' : 'devuelve un token DISTINTO'}, válido ${Math.round(r.expires_in / 86400)} días`;
+      } catch (err) { renew = `renovación no disponible ahora: ${err.message.replace(/access_token=[^&"\s]+/g, 'access_token=***').slice(0, 200)}`; }
+      return `@${user}; ${renew}`;
+    },
     // Threads publica en dos pasos: se crea el contenedor y después se publica.
     async send(p) {
       const api = 'https://graph.threads.net/v1.0/me';
