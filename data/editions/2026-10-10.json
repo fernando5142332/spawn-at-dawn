@@ -1,0 +1,677 @@
+{
+  "date": "2026-10-10",
+  "headline": {
+    "es": "Nintendo esquiva a GTA 6 en Switch 2 y Gears of War: E-Day pone a prueba al Game Pass",
+    "en": "Nintendo sidesteps GTA 6 on Switch 2 as Gears of War: E-Day tests Game Pass"
+  },
+  "intro": {
+    "es": "Nintendo no se moja sobre GTA 6 en Switch 2, las ventas estimadas de Gears of War: E-Day reabren el debate del Game Pass, Konami piensa en más Silent Hill y Sonic Racing anuncia su segundo año. Todo lo importante del día, resumido y con sus fuentes.",
+    "en": "Nintendo stays noncommittal on GTA 6 for Switch 2, estimated Gears of War: E-Day sales reopen the Game Pass debate, Konami is thinking about more Silent Hill and Sonic Racing unveils its second year. The day's essentials, summarised and sourced."
+  },
+  "stories": [
+    {
+      "id": "gta-6-switch-2-nintendo-pregunta-a-rockstar",
+      "category": "nintendo",
+      "title": {
+        "es": "Nintendo sobre GTA 6 en Switch 2: «es una conversación para Take-Two y Rockstar»",
+        "en": "Nintendo on GTA 6 for Switch 2: \"a conversation for Take-Two and Rockstar\""
+      },
+      "dek": {
+        "es": "La presidenta de Nintendo of America no confirma ni descarta nada, a pocas semanas del estreno del juego en noviembre.",
+        "en": "Nintendo of America's president neither confirms nor rules anything out, weeks before the game's November launch."
+      },
+      "body": {
+        "es": [
+          "Preguntada en una entrevista con Variety por si GTA 6 llegará a Switch 2, Devon Pritchard, presidenta de Nintendo of America, respondió que es «una conversación para Take-Two y Rockstar», y que por su parte no hay nada que anunciar por ahora, según recoge Nintendo Life.",
+          "Kotaku, GameSpot e Insider Gaming interpretan la frase como una forma de evitar el asunto: ni un sí ni un no. GTA 6 está previsto para noviembre y por ahora no se ha anunciado ninguna versión para la consola de Nintendo."
+        ],
+        "en": [
+          "Asked in an interview with Variety whether GTA 6 is coming to Switch 2, Nintendo of America president Devon Pritchard said it is \"a conversation for Take-Two and Rockstar\", adding she had nothing to announce at this time, as reported by Nintendo Life.",
+          "Kotaku, GameSpot and Insider Gaming all read the answer as a sidestep: neither a yes nor a no. GTA 6 is set for November and no version for Nintendo's console has been announced so far."
+        ]
+      },
+      "why": {
+        "es": "Cualquier anuncio dependería de Take-Two, no de Nintendo; mientras tanto, la respuesta mantiene la puerta abierta sin comprometer nada.",
+        "en": "Any announcement would rest with Take-Two, not Nintendo; for now the answer keeps the door open without committing to anything."
+      },
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Nintendo_Switch_2_in_Docking_Console.jpg/1280px-Nintendo_Switch_2_in_Docking_Console.jpg",
+        "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Nintendo_Switch_2_in_Docking_Console.jpg/960px-Nintendo_Switch_2_in_Docking_Console.jpg",
+        "credit": "Crisco 1492 / Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Nintendo_Switch_2_in_Docking_Console.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      },
+      "sources": [
+        {
+          "name": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/nintendo-of-americas-president-comments-on-the-possibility-of-gta-6-on-switch-2"
+        },
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/will-gta-6-ever-come-to-switch-2-nintendo-of-america-president-says-go-ask-rockstar-2000743283"
+        },
+        {
+          "name": "GameSpot",
+          "url": "https://www.gamespot.com/articles/is-gta-6-coming-to-switch-2-ask-rockstar-nintendo-says/"
+        },
+        {
+          "name": "Insider Gaming",
+          "url": "https://insider-gaming.com/gta-6-on-switch-2-up-to-take-two/"
+        },
+        {
+          "name": "Nintenderos",
+          "url": "https://www.nintenderos.com/2026/10/nintendo-se-pronuncia-sobre-la-posibilidad-de-ver-gta-6-en-switch-2-afirma-que-depende-de-take-two-y-rockstar/"
+        }
+      ]
+    },
+    {
+      "id": "gears-of-war-e-day-ventas-estimadas-game-pass",
+      "category": "xbox",
+      "title": {
+        "es": "Gears of War: E-Day arranca con ventas estimadas modestas, pero el Game Pass complica la lectura",
+        "en": "Gears of War: E-Day starts with modest estimated sales, but Game Pass muddies the picture"
+      },
+      "dek": {
+        "es": "Un analista de Alinea Analytics calcula unas 230.000 copias vendidas en la primera semana; Kotaku e IGN difieren en la cifra del titular.",
+        "en": "An Alinea Analytics analyst estimates around 230,000 copies sold in week one; Kotaku and IGN differ on the headline figure."
+      },
+      "body": {
+        "es": [
+          "Según datos de Alinea Analytics que el analista Rhys Elliott compartió el 9 de octubre, Gears of War: E-Day habría vendido unas 230.000 copias en su primera semana. Kotaku titula 320.000, pero el desglose que ofrece (unas 168.000 en Steam y unas 62.000 en Xbox, consola y PC) suma 230.000, que es la cifra que usa IGN. Microsoft no ha confirmado ningún dato.",
+          "La cifra no incluye a quienes juegan vía Game Pass: Elliott estima unos 1,7 millones de jugadores por esa vía, de los que unos 722.000 habrían pagado 30 dólares por la edición Premium para acceso anticipado. Calcula unos 37 millones de dólares de ingresos y sostiene que el servicio canibaliza ventas sin traer claramente suscriptores nuevos. GameSpot recuerda que hay más factores en juego que las ventas puras.",
+          "Es un análisis de terceros y conviene leerlo con cautela. La crítica, de momento, es muy favorable: 3DJuegos le da su distinción «Recomendado» y lo define como de lo mejor del año."
+        ],
+        "en": [
+          "According to Alinea Analytics data shared by analyst Rhys Elliott on October 9, Gears of War: E-Day sold roughly 230,000 copies in its first week. Kotaku's headline says 320,000, but the breakdown it gives (about 168,000 on Steam and about 62,000 on Xbox, console and PC) adds up to 230,000, the figure IGN uses. Microsoft has not confirmed any numbers.",
+          "The estimate leaves out Game Pass players: Elliott puts that route at around 1.7 million players, of whom roughly 722,000 reportedly paid $30 for the Premium Edition for early access. He estimates about $37 million in revenue and argues the service cannibalises sales without clearly bringing in new subscribers. GameSpot notes there are more factors at play than raw sales.",
+          "This is third-party analysis and should be read with caution. Critical reception has so far been strong: 3DJuegos gives it its \"Recomendado\" badge and calls it one of the year's best."
+        ]
+      },
+      "why": {
+        "es": "Es el primer pulso comercial de un exclusivo de Xbox en la era del Game Pass: las ventas por sí solas ya no miden el éxito.",
+        "en": "It is the first commercial read on an Xbox exclusive in the Game Pass era: sales alone no longer measure success."
+      },
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3010850/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3010850/capsule_616x353.jpg",
+        "credit": "Xbox Game Studios / Steam",
+        "creditUrl": "https://store.steampowered.com/app/3010850/"
+      },
+      "sources": [
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/gears-of-war-e-day-estimated-to-have-sold-just-320000-copies-despite-rave-reviews-2000743262"
+        },
+        {
+          "name": "IGN",
+          "url": "https://www.ign.com/articles/gears-of-war-e-day-estimated-sales-reach-just-230000-in-first-week-analyst-says"
+        },
+        {
+          "name": "GameSpot",
+          "url": "https://www.gamespot.com/articles/gears-of-war-e-day-hows-it-selling-lets-unpack-things/"
+        },
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/juegos/gears-of-war-e-day/analisis/analisis-definitivo-gears-of-war-e-day-juego-exclusivo-que-vale-pena-comprar-xbox"
+        }
+      ]
+    },
+    {
+      "id": "sonic-racing-crossworlds-year-two-3-noviembre",
+      "category": "juegos",
+      "title": {
+        "es": "Sonic Racing: CrossWorlds arranca su segundo año el 3 de noviembre con modo Duelo y Godzilla",
+        "en": "Sonic Racing: CrossWorlds kicks off Year Two on November 3 with Duel Mode and Godzilla"
+      },
+      "dek": {
+        "es": "Sega rebaja el juego base y anuncia un Pase de Temporada 2 con colaboraciones de Evangelion, Final Fantasy VII Remake y Persona.",
+        "en": "Sega cuts the base game's price and announces Season Pass Two with Evangelion, Final Fantasy VII Remake and Persona collaborations."
+      },
+      "body": {
+        "es": [
+          "Sega ha detallado el «Año Dos» de Sonic Racing: CrossWorlds, que empieza el 3 de noviembre de 2026. Ese día llega un modo Duelo de uno contra uno con una nueva mecánica de impulso, una mejora del sistema de gadgets con quince nuevos y la posibilidad de que los personajes posteriores al lanzamiento aparezcan como rivales controlados por la CPU. Bayonetta se suma gratis el 3 de noviembre, McLaren Racing en noviembre y Aigis a principios de 2027.",
+          "El Pase de Temporada 2 cuesta 29,99 dólares: el pack de Godzilla llega el 3 de noviembre, el de Evangelion en enero de 2027, y después vendrán Sanrio Puroland, SEGALAND, un pack de Midgar (título provisional, de Final Fantasy VII Remake) y otro de Persona, escalonados hasta el cuarto trimestre de 2027.",
+          "Nintendo Life también informa de que la edición estándar baja de 69,99 a 39,99 dólares y la Deluxe de 89,99 a 59,99. Las fuentes consultadas no precisan en qué plataformas estará cada contenido."
+        ],
+        "en": [
+          "Sega has detailed \"Year Two\" of Sonic Racing: CrossWorlds, which begins November 3, 2026. That day brings a one-on-one Duel Mode with a new boost mechanic, a gadget system upgrade with fifteen new gadgets, and post-launch characters appearing as CPU racers. Bayonetta joins for free on November 3, McLaren Racing in November and Aigis in early 2027.",
+          "Season Pass Two costs $29.99: the Godzilla pack arrives November 3 and the Evangelion pack in January 2027, followed by Sanrio Puroland, SEGALAND, a Midgar pack (working title, from Final Fantasy VII Remake) and a Persona pack, staggered through Q4 2027.",
+          "Nintendo Life also reports the Standard Edition drops from $69.99 to $39.99 and the Deluxe from $89.99 to $59.99. The sources consulted do not specify which platforms get each piece of content."
+        ]
+      },
+      "why": {
+        "es": "Sega apuesta por colaboraciones y precio para alargar la vida de un juego que quiere competir con Mario Kart a largo plazo.",
+        "en": "Sega is betting on collaborations and price to extend the life of a game aiming to compete with Mario Kart over the long run."
+      },
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2486820/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2486820/e6a01b90be6d5f338fc2479efd544d6015a4c782/header_alt_assets_15.jpg",
+        "credit": "SEGA / Steam",
+        "creditUrl": "https://store.steampowered.com/app/2486820/"
+      },
+      "sources": [
+        {
+          "name": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/sonic-racing-crossworlds-year-two-roadmap-revealed-major-free-updates-new-collabs-and-much-more"
+        },
+        {
+          "name": "Gematsu",
+          "url": "https://www.gematsu.com/2026/10/sonic-racing-crossworlds-year-two-updates-and-dlc-announced"
+        },
+        {
+          "name": "Nintenderos",
+          "url": "https://www.nintenderos.com/nintendo-switch-2/sonic-racing-crossworlds-revela-dlc-de-final-fantasy-vii-remake-persona-hello-kitty-y-mas/"
+        }
+      ]
+    },
+    {
+      "id": "konami-silent-hill-segunda-tercera-ola",
+      "category": "juegos",
+      "title": {
+        "es": "Konami ya piensa en una «segunda y tercera ola» de juegos de Silent Hill",
+        "en": "Konami is already planning \"second and third waves\" of Silent Hill games"
+      },
+      "dek": {
+        "es": "El productor Motoi Okamoto dice que la primera oleada ha sido un alivio y que se evalúan varios proyectos sin detalles aún.",
+        "en": "Producer Motoi Okamoto says the first wave was a relief and several projects are being evaluated, with no details yet."
+      },
+      "body": {
+        "es": [
+          "Motoi Okamoto, productor de Konami, ha explicado a Famitsu, según Vandal, que el éxito de la primera oleada de juegos de Silent Hill supuso un alivio y que la compañía no se detiene ahí: está considerando una segunda y una tercera. Asegura que se evalúan varios proyectos, pero no puede dar detalles.",
+          "Vandal recuerda que, con Silent Hill: Townfall, ya han salido todos los juegos anunciados en el Transmission de 2022, entre ellos el remake de Silent Hill 2, The Short Message y Silent Hill f. No se ha anunciado ningún título nuevo ni fecha."
+        ],
+        "en": [
+          "Konami producer Motoi Okamoto told Famitsu, as relayed by Vandal, that the first wave of Silent Hill games succeeded and brought relief, and that the company is not stopping there: it is considering a second and a third wave. He says several projects are under evaluation but he cannot share details.",
+          "Vandal notes that with Silent Hill: Townfall, every game announced at the 2022 Transmission has now been released, including the Silent Hill 2 remake, The Short Message and Silent Hill f. No new title or date has been announced."
+        ]
+      },
+      "why": {
+        "es": "Tras años de sequía, Konami trata Silent Hill como una franquicia de producción continua, no como un resurgir puntual.",
+        "en": "After years of drought, Konami is treating Silent Hill as an ongoing franchise rather than a one-off revival."
+      },
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1636440/c6ae9fc8011c59932651baa3d45709ef0df69cb0/ss_c6ae9fc8011c59932651baa3d45709ef0df69cb0.1920x1080.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1636440/0ed1cb4bc30631f95b92f7f13bb06c15d49b4afa/header.jpg",
+        "credit": "KONAMI / Steam",
+        "creditUrl": "https://store.steampowered.com/app/1636440/"
+      },
+      "sources": [
+        {
+          "name": "IGN",
+          "url": "https://www.ign.com/articles/konami-planning-second-and-third-waves-of-new-silent-hill-games"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026282011/konami-ya-esta-pensando-en-el-futuro-de-silent-hill-y-su-productor-lo-confirma-no-nos-detenemos-aqui/"
+        }
+      ]
+    },
+    {
+      "id": "crimson-desert-pearl-abyss-criticas-seis-millones",
+      "category": "juegos",
+      "title": {
+        "es": "Pearl Abyss defiende Crimson Desert: la crítica «no tuvo una oportunidad justa» de explorarlo",
+        "en": "Pearl Abyss defends Crimson Desert: critics \"didn't get a fair chance\" to explore it"
+      },
+      "dek": {
+        "es": "La directiva Lybee Park atribuye las notas medias a un tiempo limitado y a una versión distinta de la de lanzamiento; el juego suma 6 millones de ventas.",
+        "en": "Executive Lybee Park attributes the middling scores to limited time and a build different from launch; the game has sold 6 million copies."
+      },
+      "body": {
+        "es": [
+          "Lybee Park, responsable de Pearl Abyss en Europa, dijo en The Game Business Show que ambas partes tienen parte de razón, «especialmente los críticos», pero que la prensa tuvo tiempo limitado y no jugó la versión de lanzamiento, según Kotaku y VGC. Kotaku cita un 77 en Metacritic.",
+          "Kotaku añade que el juego recibió un parche el día del estreno y una actualización mayor en su primera semana que rehízo sistemas como los límites de inventario, que habían frustrado a los analistas. Tras una corrección, el medio confirma que Pearl Abyss da la cifra de 6 millones de ventas (una versión inicial hablaba de 7).",
+          "El DLC «Charting the Unknown» llega el 29 de octubre."
+        ],
+        "en": [
+          "Lybee Park, Pearl Abyss's European lead, told The Game Business Show that both sides have a point, \"especially the critics\", but that the press had limited time and did not play the launch version, per Kotaku and VGC. Kotaku cites a 77 on Metacritic.",
+          "Kotaku adds that the game got a day-one patch and a bigger update in its first week that reworked systems such as inventory limits, which had frustrated reviewers. After a correction, the outlet confirms Pearl Abyss gives a figure of 6 million sales (an earlier version said 7).",
+          "The \"Charting the Unknown\" DLC arrives October 29."
+        ]
+      },
+      "why": {
+        "es": "Reaviva el debate sobre cuánto pesan las reseñas frente a los parches posteriores cuando el público acompaña.",
+        "en": "It revives the debate over how much reviews matter against later patches when players show up anyway."
+      },
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321460/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321460/236f3814be7a97d86831800691b6096d449222a8/header.jpg",
+        "credit": "Pearl Abyss / Steam",
+        "creditUrl": "https://store.steampowered.com/app/3321460/"
+      },
+      "sources": [
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/crimson-desert-exec-explains-the-gulf-between-the-mid-review-scores-and-the-7-million-sales-2000743258"
+        },
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/news/crimson-deserts-lower-review-scores-were-because-critics-didnt-get-a-fair-chance-to-explore-exec-says/"
+        }
+      ]
+    },
+    {
+      "id": "double-fine-sindicato-fracaso-informe",
+      "category": "industria",
+      "title": {
+        "es": "Informe: el intento de sindicarse en Double Fine se vino abajo por malentendidos y choque cultural",
+        "en": "Report: Double Fine's union drive collapsed amid miscommunication and culture clash"
+      },
+      "dek": {
+        "es": "Según Kotaku, la petición de mayo se retiró tras meses de tensión interna; Tim Schafer niega que los despidos de julio estuvieran ligados.",
+        "en": "According to Kotaku, the May petition was withdrawn after months of internal tension; Tim Schafer denies the July layoffs were linked."
+      },
+      "body": {
+        "es": [
+          "Empleados de Double Fine presentaron en mayo de 2026 una petición para sindicarse, que luego fue retirada. Un reportaje de Kotaku, resumido por Game Developer, atribuye el fracaso a la confusión sobre quién podía afiliarse (la ley estadounidense excluye a los cargos con poder de contratar y despedir, y en un estudio de estructura plana muchos habían sido «jefes» en algún momento), al temor a dañar la cultura de la empresa y a un enfrentamiento previo por el crunch.",
+          "En julio, el estudio despidió a 23 personas, entre ellas ocho organizadores del sindicato. El director, Tim Schafer, afirma que no se despidió a nadie por esa razón: «No fuimos a por gente en los despidos». El reportaje se basa en fuentes anónimas y en una entrevista de una hora con Schafer."
+        ],
+        "en": [
+          "Double Fine employees filed a petition to unionise in May 2026, which was later withdrawn. A Kotaku report, summarised by Game Developer, blames the failure on confusion over who was eligible (US law excludes those with hiring and firing power, and in a flat studio many had been \"managers\" at some point), fears of damaging the company culture, and an earlier clash over crunch.",
+          "In July the studio laid off 23 people, eight of them union organisers. CEO Tim Schafer says nobody was let go for that reason: \"We didn't target people for layoffs.\" The report draws on anonymous sources and an hour-long interview with Schafer."
+        ]
+      },
+      "why": {
+        "es": "Contrasta con las peticiones que sí prosperaron en otros estudios del mismo grupo, como Blizzard y ZeniMax.",
+        "en": "It contrasts with petitions that did succeed at other studios in the same group, such as Blizzard and ZeniMax."
+      },
+      "sources": [
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/inside-the-failed-fight-to-unionize-one-of-gamings-most-idealized-studios-2000742755"
+        },
+        {
+          "name": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/report-double-fine-s-union-drive-collapsed-under-miscommunications-and-culture-clash"
+        }
+      ]
+    },
+    {
+      "id": "leisure-suit-larry-ultimos-dos-juegos-steam-23-octubre",
+      "category": "pc",
+      "title": {
+        "es": "Los dos últimos Leisure Suit Larry dejarán de venderse en Steam tras el 23 de octubre",
+        "en": "The last two Leisure Suit Larry games leave Steam after October 23"
+      },
+      "dek": {
+        "es": "Wet Dreams Don't Dry y Wet Dreams Dry Twice se rebajan un 95 % antes de desaparecer; las otras siete entregas ya se retiraron en 2025.",
+        "en": "Wet Dreams Don't Dry and Wet Dreams Dry Twice are 95% off before they go; the other seven games were pulled in 2025."
+      },
+      "body": {
+        "es": [
+          "Assemble Entertainment ha anunciado que Leisure Suit Larry: Wet Dreams Don't Dry y Wet Dreams Dry Twice se retirarán de Steam después del 23 de octubre, según Vandal y VGC. Las siete entregas anteriores ya habían desaparecido de la tienda en 2025.",
+          "Hasta entonces están rebajados un 95 % (1,99 dólares cada uno en Steam, GOG y Switch, según VGC). La editora no ha dado motivos; Phil Salvador, de la Video Game History Foundation, apunta como posible causa que EA, propietaria de Codemasters, haya puesto fin al acuerdo de licencia, pero es una hipótesis."
+        ],
+        "en": [
+          "Assemble Entertainment has announced that Leisure Suit Larry: Wet Dreams Don't Dry and Wet Dreams Dry Twice will be removed from Steam after October 23, per Vandal and VGC. The seven earlier games had already left the store in 2025.",
+          "Until then both are 95% off ($1.99 each on Steam, GOG and Switch, per VGC). The publisher gave no reason; Phil Salvador of the Video Game History Foundation suggests EA, which owns Codemasters, may have ended the licensing deal, though that is conjecture."
+        ]
+      },
+      "why": {
+        "es": "Es otro caso que alimenta el debate sobre la preservación de juegos comprados en formato digital.",
+        "en": "It is another case feeding the debate on preserving games bought digitally."
+      },
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/765870/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/765870/capsule_616x353.jpg",
+        "credit": "Assemble Entertainment / Steam",
+        "creditUrl": "https://store.steampowered.com/app/765870/"
+      },
+      "sources": [
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/news/after-the-first-seven-leisure-suit-larry-games-were-delisted-last-year-the-last-two-are-joining-them/"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026282023/adios-a-leisure-suit-larry-en-steam-sus-dos-ultimos-juegos-desapareceran-de-la-tienda-en-unos-dias/"
+        }
+      ]
+    },
+    {
+      "id": "battlefield-6-temporada-5-13-octubre-servidores",
+      "category": "pc",
+      "title": {
+        "es": "Battlefield 6 estrena la Temporada 5 el 13 de octubre; el buscador de servidores llegará más tarde",
+        "en": "Battlefield 6 Season 5 launches October 13; the server browser comes later"
+      },
+      "dek": {
+        "es": "Las Vegas es el escenario, con dos mapas desde el primer día; el buscador de servidores y los pelotones, que los fans pedían desde el lanzamiento, no están al inicio.",
+        "en": "Las Vegas is the setting, with two maps from day one; the server browser and platoons, long requested by fans, are not there at the start."
+      },
+      "body": {
+        "es": [
+          "La Temporada 5 de Battlefield 6 empieza el 13 de octubre con el tema «Siege of Vegas», según Insider Gaming. EA habla de tres mapas nuevos ambientados en Las Vegas repartidos por la temporada, dos de ellos desde el lanzamiento.",
+          "El buscador de servidores no estará al principio. Insider Gaming sitúa su llegada, junto a los pelotones, en la parte «Frozen Aces» de la temporada, el 8 de diciembre; EA solo dice que llegará más adelante en la temporada. Ambas funciones faltaban desde el estreno del juego, hace un año."
+        ],
+        "en": [
+          "Battlefield 6 Season 5 begins October 13 with a \"Siege of Vegas\" theme, per Insider Gaming. EA describes three new Las Vegas maps spread across the season, two of them ready at launch.",
+          "The server browser will not be there at the start. Insider Gaming places its arrival, along with platoons, in the \"Frozen Aces\" part of the season on December 8; EA only says it will arrive later in the season. Both features have been missing since the game launched a year ago."
+        ]
+      },
+      "why": {
+        "es": "Responde a una de las quejas más repetidas de la comunidad un año después del lanzamiento.",
+        "en": "It answers one of the community's most repeated complaints a year after launch."
+      },
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2807960/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2807960/c12d12ce3c7d217398d3fcad77427bfc9d57c570/header.jpg",
+        "credit": "Electronic Arts / Steam",
+        "creditUrl": "https://store.steampowered.com/app/2807960/"
+      },
+      "sources": [
+        {
+          "name": "Insider Gaming",
+          "url": "https://insider-gaming.com/battlefield-6-season-5-update-adding-key-feature/"
+        },
+        {
+          "name": "EA",
+          "url": "https://www.ea.com/games/battlefield/battlefield-6/news/battlefield-6-community-update-siege-of-vegas-incoming"
+        }
+      ]
+    },
+    {
+      "id": "witcher-3-remastered-parche-5-01-switch-2",
+      "category": "juegos",
+      "title": {
+        "es": "The Witcher 3 Remastered recibe el parche 5.01 y CD Projekt prepara mejoras para Switch 2",
+        "en": "The Witcher 3 Remastered gets patch 5.01 as CD Projekt readies Switch 2 improvements"
+      },
+      "dek": {
+        "es": "El parche corrige fallos de jugabilidad, interfaz, PS5 y PC; la versión de Switch 2 recibirá cambios de nitidez.",
+        "en": "The patch fixes gameplay, UI, PS5 and PC issues; the Switch 2 version will get sharpness changes."
+      },
+      "body": {
+        "es": [
+          "CD Projekt Red ha lanzado el parche 5.01 de The Witcher 3 Remastered. Según Push Square, corrige, entre otros, barcos que se movían sin control, la pérdida total de aguante al correr y esquivar a la vez y un fallo de guardado, y en PS5 añade ajustes gráficos (bloom, haces de luz y profundidad de campo) y corrige que la configuración se reiniciara en cada arranque. En PC, la escala dinámica de resolución pasa a estar desactivada por defecto.",
+          "Nintendo Life añade que, en las mismas notas, el estudio dice trabajar en una actualización para Switch 2 con los mismos cambios globales y mejoras propias de la consola, sobre todo en claridad y nitidez de imagen. No hay fecha y se darán más detalles «en los próximos días». El remaster salió en Switch 2 el 29 de septiembre."
+        ],
+        "en": [
+          "CD Projekt Red has released patch 5.01 for The Witcher 3 Remastered. Per Push Square, it fixes boats moving uncontrollably, stamina fully draining when sprinting and dodging together, and a save-file issue, and on PS5 adds graphics options (bloom, light shafts and depth of field) and fixes settings resetting on every launch. On PC, dynamic resolution scaling now defaults to off.",
+          "Nintendo Life adds that, in the same notes, the studio says it is working on a Switch 2 update bringing the same global changes plus console-specific improvements, mainly to image clarity and sharpness. No date is given and more details will follow \"in the following days\". The remaster launched on Switch 2 on September 29."
+        ]
+      },
+      "why": {
+        "es": "Es el primer gran parche tras un estreno con experiencias técnicas desiguales según la plataforma.",
+        "en": "It is the first major patch after a launch with uneven technical experiences across platforms."
+      },
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/capsule_616x353.jpg",
+        "credit": "CD PROJEKT RED / Steam",
+        "creditUrl": "https://store.steampowered.com/app/292030/"
+      },
+      "sources": [
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/cd-projekt-red-delivers-the-witcher-3-remastered-fixes-improvements-in-patch-5-01"
+        },
+        {
+          "name": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/witcher-3-remastered-switch-2-update-to-improve-image-clarity-and-sharpness"
+        }
+      ]
+    },
+    {
+      "id": "it-takes-two-switch-2-15-octubre-mejora-gratis",
+      "category": "nintendo",
+      "title": {
+        "es": "It Takes Two llega a Switch 2 el 15 de octubre con mejora gratuita y juego cruzado",
+        "en": "It Takes Two arrives on Switch 2 on October 15 with a free upgrade and cross-play"
+      },
+      "dek": {
+        "es": "Hazelight ofrece 1080p a 60 fps en modo sobremesa y cross-play con PC, Xbox y PlayStation.",
+        "en": "Hazelight offers 1080p at 60fps docked and cross-play with PC, Xbox and PlayStation."
+      },
+      "body": {
+        "es": [
+          "Hazelight ha anunciado la versión de It Takes Two para Switch 2, que sale el 15 de octubre como mejora gratuita para quien tenga la de Switch, según Nintendo Life. Promete mejores gráficos y rendimiento (1080p a 60 fps en modo sobremesa), cargas más rápidas y más opciones de GameShare, además de mantener el Pase de Amigo.",
+          "El juego cruzado llega el mismo día: los jugadores de Switch 2 podrán jugar con amigos en PC, Xbox Series X|S, Xbox One, PS4 y PS5. Los de Switch 1 solo podrán jugar online con Switch 2 si vuelven a la versión original."
+        ],
+        "en": [
+          "Hazelight has announced the Switch 2 version of It Takes Two, launching October 15 as a free upgrade for Switch owners, per Nintendo Life. It promises better graphics and performance (1080p at 60fps docked), faster loading and more GameShare options, while keeping the Friend's Pass.",
+          "Cross-play arrives the same day: Switch 2 players can team up with friends on PC, Xbox Series X|S, Xbox One, PS4 and PS5. Switch 1 players can only play online with Switch 2 users by going back to the original version."
+        ]
+      },
+      "why": {
+        "es": "Suma un clásico del cooperativo a una consola donde el juego cruzado aún no es habitual.",
+        "en": "It adds a co-op classic to a console where cross-play is still not routine."
+      },
+      "sources": [
+        {
+          "name": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/it-takes-two-hops-onto-switch-2-next-week-marrying-visual-upgrades-and-cross-play"
+        },
+        {
+          "name": "Nintenderos",
+          "url": "https://www.nintenderos.com/nintendo-switch-2/it-takes-two-lanza-su-primer-trailer-de-nintendo-switch-2-confirma-actualizacion-gratis-para-los-que-lo-tengan-en-nintendo-switch-y-mas/"
+        }
+      ]
+    }
+  ],
+  "briefs": [
+    {
+      "text": {
+        "es": "Star Wars Zero Company supera el millón de copias vendidas, según anunció EA.",
+        "en": "Star Wars Zero Company has passed one million copies sold, EA announced."
+      },
+      "source": {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/10/as-its-developer-recovers-star-wars-zero-company-reaches-one-million-copies-sold"
+      }
+    },
+    {
+      "text": {
+        "es": "Charlie Cox dice que ha grabado 40 horas de diálogo para un juego de Sega aún sin anunciar.",
+        "en": "Charlie Cox says he has recorded 40 hours of dialogue for an unannounced Sega game."
+      },
+      "source": {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/charlie-cox-recorded-40-hours-of-dialogue-for-a-sega-game-he-cant-name-yet/"
+      }
+    },
+    {
+      "text": {
+        "es": "Fatal Fury: City of the Wolves añadirá a Reina, de Tekken, como personaje de contenido descargable.",
+        "en": "Fatal Fury: City of the Wolves will add Tekken's Reina as a DLC character."
+      },
+      "source": {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/10/fatal-fury-city-of-the-wolves-dlc-character-reina-from-tekken-announced"
+      }
+    },
+    {
+      "text": {
+        "es": "Tropico 7 llegará a Switch 2 el 28 de enero de 2027, junto al resto de versiones.",
+        "en": "Tropico 7 will come to Switch 2 on January 28, 2027, alongside other versions."
+      },
+      "source": {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/10/tropico-7-officially-confirmed-for-switch-2-out-2027"
+      }
+    },
+    {
+      "text": {
+        "es": "Shadow of the Road se retrasa hasta el 10 de marzo de 2027.",
+        "en": "Shadow of the Road is delayed to March 10, 2027."
+      },
+      "source": {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/10/shadow-of-the-road-delayed-to-march-10-2027"
+      }
+    },
+    {
+      "text": {
+        "es": "Crazy Taxi: World Tour muestra en un nuevo tráiler su escenario de Brasil.",
+        "en": "Crazy Taxi: World Tour shows its Brazil location in a new trailer."
+      },
+      "source": {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/10/crazy-taxi-world-tour-takes-you-to-brazil-as-another-location-is-revealed"
+      }
+    },
+    {
+      "text": {
+        "es": "El anime de Ghost of Tsushima se retrasa a 2028 con nuevo reparto y equipo, según Push Square.",
+        "en": "The Ghost of Tsushima anime slips to 2028 with new cast and crew, per Push Square."
+      },
+      "source": {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/10/ghost-of-tsushimas-anime-series-has-been-pushed-back-to-2028"
+      }
+    },
+    {
+      "text": {
+        "es": "Vuelve el Atari 800XL a tamaño real, con 25 juegos y compatible con cartuchos, según Vandal.",
+        "en": "The Atari 800XL returns at full size with 25 games and cartridge compatibility, per Vandal."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026282025/el-mitico-atari-800xl-vuelve-43-anos-despues-a-tamano-real-con-25-juegos-y-compatible-con-cartuchos/"
+      }
+    },
+    {
+      "text": {
+        "es": "Zenless Zone Zero lanzará su versión 3.3, «Journey to the Sky», el 21 de octubre.",
+        "en": "Zenless Zone Zero's version 3.3, \"Journey to the Sky\", launches October 21."
+      },
+      "source": {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/10/zenless-zone-zero-version-3-3-update-journey-to-the-sky-launches-october-21"
+      }
+    }
+  ],
+  "releases": [
+    {
+      "title": "Battlefield 6 – Temporada 5",
+      "platforms": "PC · consolas",
+      "note": {
+        "es": "13 de octubre",
+        "en": "October 13"
+      },
+      "url": "https://insider-gaming.com/battlefield-6-season-5-update-adding-key-feature/"
+    },
+    {
+      "title": "It Takes Two (Switch 2)",
+      "platforms": "Switch 2",
+      "note": {
+        "es": "15 de octubre",
+        "en": "October 15"
+      },
+      "url": "https://www.nintendolife.com/news/2026/10/it-takes-two-hops-onto-switch-2-next-week-marrying-visual-upgrades-and-cross-play"
+    },
+    {
+      "title": "Zenless Zone Zero 3.3",
+      "platforms": "PC · móvil · consolas",
+      "note": {
+        "es": "21 de octubre",
+        "en": "October 21"
+      },
+      "url": "https://www.gematsu.com/2026/10/zenless-zone-zero-version-3-3-update-journey-to-the-sky-launches-october-21"
+    },
+    {
+      "title": "Phantom Blade Zero",
+      "platforms": "PC · PS5",
+      "note": {
+        "es": "29 de octubre",
+        "en": "October 29"
+      },
+      "url": "https://www.pushsquare.com/previews/phantom-blade-zero-is-the-next-truly-essential-ps5-game"
+    },
+    {
+      "title": "Sonic Racing: CrossWorlds – Año Dos",
+      "platforms": "Multiplataforma",
+      "note": {
+        "es": "3 de noviembre",
+        "en": "November 3"
+      },
+      "url": "https://www.nintendolife.com/news/2026/10/sonic-racing-crossworlds-year-two-roadmap-revealed-major-free-updates-new-collabs-and-much-more"
+    },
+    {
+      "title": "Shadow of the Road",
+      "platforms": "PC · consolas",
+      "note": {
+        "es": "10 de marzo de 2027 (retrasado)",
+        "en": "March 10, 2027 (delayed)"
+      },
+      "url": "https://www.gematsu.com/2026/10/shadow-of-the-road-delayed-to-march-10-2027"
+    }
+  ],
+  "social": [
+    {
+      "text": {
+        "es": "El clip de un personaje llamado Biddy Blas en Star Wars: Galactic Racer se ha hecho viral y la productora de Lucasfilm Games ha respondido.",
+        "en": "A clip of a character named Biddy Blas in Star Wars: Galactic Racer has gone viral and a Lucasfilm Games producer has responded."
+      },
+      "source": {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/lucasfilm-games-producer-responds-after-galactic-racer-character-biddy-blas-goes-viral"
+      }
+    },
+    {
+      "text": {
+        "es": "Las ventas estimadas de Gears of War: E-Day reabren el debate sobre si el Game Pass canibaliza las ventas de los exclusivos de Xbox.",
+        "en": "Estimated Gears of War: E-Day sales reopen the debate over whether Game Pass cannibalises sales of Xbox exclusives."
+      },
+      "source": {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/gears-of-war-e-day-estimated-to-have-sold-just-320000-copies-despite-rave-reviews-2000743262"
+      }
+    },
+    {
+      "text": {
+        "es": "En la vista del tribunal laboral, se interroga a RR. HH. de Rockstar por un «topo» en Discord y el momento de los despidos de desarrolladores de GTA 6.",
+        "en": "At the labour tribunal hearing, Rockstar HR is questioned over a Discord \"mole\" and the timing of GTA 6 developer firings."
+      },
+      "source": {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/rockstar-hr-questioned-over-discord-mole-and-sudden-timing-of-gta-6-dev-firings-in-latest-labor-tribunal-hearing-2000743272"
+      }
+    },
+    {
+      "text": {
+        "es": "Los fans de Battlefield 6 reprochan que el buscador de servidores tarde un año en llegar.",
+        "en": "Battlefield 6 fans grumble that the server browser took a year to arrive."
+      },
+      "source": {
+        "name": "Insider Gaming",
+        "url": "https://insider-gaming.com/battlefield-6-season-5-update-adding-key-feature/"
+      }
+    }
+  ],
+  "steam": [
+    {
+      "name": "Steam Machine",
+      "url": "https://store.steampowered.com/app/4165910/"
+    },
+    {
+      "name": "Dragon's Dogma 2: Dark Arisen Expansion",
+      "url": "https://store.steampowered.com/app/2593290/"
+    },
+    {
+      "name": "EA SPORTS FC™ 27",
+      "url": "https://store.steampowered.com/app/4080220/"
+    },
+    {
+      "name": "STAR WARS: Galactic Racer™",
+      "url": "https://store.steampowered.com/app/4078430/"
+    },
+    {
+      "name": "Risk of Rain 2: Hallowed Concepts",
+      "url": "https://store.steampowered.com/app/3055670/"
+    },
+    {
+      "name": "Dressmaker",
+      "url": "https://store.steampowered.com/app/4019220/"
+    },
+    {
+      "name": "Clive Barker's Hellraiser: Revival",
+      "url": "https://store.steampowered.com/app/1551980/"
+    },
+    {
+      "name": "Gears of War: E-Day",
+      "url": "https://store.steampowered.com/app/3010850/"
+    }
+  ]
+}
