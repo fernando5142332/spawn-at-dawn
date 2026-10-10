@@ -111,7 +111,15 @@ const NETWORKS = {
     async send(p) {
       const api = 'https://graph.threads.net/v1.0/me';
       const form = (o) => ({ method: 'POST', headers: { 'content-type': 'application/x-www-form-urlencoded' }, body: new URLSearchParams({ ...o, access_token: env.THREADS_TOKEN }) });
-      const { id } = await json(`${api}/threads`, form({ media_type: 'TEXT', text: p.text, link_attachment: p.url }));
+      // Threads valida el enlace adjunto al momento; una página recién publicada puede no estar disponible todavía.
+      // Si lo rechaza, se reintenta tras una pausa y, en último caso, se publica sin adjunto (el enlace va en el texto).
+      const create = (withLink) => json(`${api}/threads`, form({ media_type: 'TEXT', text: p.text, ...(withLink ? { link_attachment: p.url } : {}) }));
+      const wait = (ms) => new Promise((r) => setTimeout(r, ms));
+      const { id } = await create(true).catch(async (err) => {
+        if (!/Link Attachment/i.test(err.message)) throw err;
+        await wait(30000);
+        return create(true).catch(() => create(false));
+      });
       await new Promise((r) => setTimeout(r, 4000));
       await json(`${api}/threads_publish`, form({ creation_id: id }));
     },
